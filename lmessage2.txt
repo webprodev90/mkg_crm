@@ -1,0 +1,51 @@
+Array
+(
+    [update_id] => 289304371
+    [my_chat_member] => Array
+        (
+            [chat] => Array
+                (
+                    [id] => 8076715804
+                    [first_name] => Dio
+                    [type] => private
+                )
+
+            [from] => Array
+                (
+                    [id] => 8076715804
+                    [is_bot] => 
+                    [first_name] => Dio
+                    [language_code] => pt-br
+                )
+
+            [date] => 1752850285
+            [old_chat_member] => Array
+                (
+                    [user] => Array
+                        (
+                            [id] => 6337444900
+                            [is_bot] => 1
+                            [first_name] => AddLeadsBase_bot
+                            [username] => AddLeadsBase_bot
+                        )
+
+                    [status] => member
+                )
+
+            [new_chat_member] => Array
+                (
+                    [user] => Array
+                        (
+                            [id] => 6337444900
+                            [is_bot] => 1
+                            [first_name] => AddLeadsBase_bot
+                            [username] => AddLeadsBase_bot
+                        )
+
+                    [status] => kicked
+                    [until_date] => 0
+                )
+
+        )
+
+)

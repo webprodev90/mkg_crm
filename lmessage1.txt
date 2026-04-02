@@ -1,0 +1,52 @@
+Array
+(
+    [update_id] => 633634301
+    [my_chat_member] => Array
+        (
+            [chat] => Array
+                (
+                    [id] => 415987269
+                    [first_name] => Анжелика
+                    [last_name] => .
+                    [type] => private
+                )
+
+            [from] => Array
+                (
+                    [id] => 415987269
+                    [is_bot] => 
+                    [first_name] => Анжелика
+                    [last_name] => .
+                )
+
+            [date] => 1749447221
+            [old_chat_member] => Array
+                (
+                    [user] => Array
+                        (
+                            [id] => 6058314242
+                            [is_bot] => 1
+                            [first_name] => AddLeadsCrm_bot
+                            [username] => addleadscrm_bot
+                        )
+
+                    [status] => member
+                )
+
+            [new_chat_member] => Array
+                (
+                    [user] => Array
+                        (
+                            [id] => 6058314242
+                            [is_bot] => 1
+                            [first_name] => AddLeadsCrm_bot
+                            [username] => addleadscrm_bot
+                        )
+
+                    [status] => kicked
+                    [until_date] => 0
+                )
+
+        )
+
+)

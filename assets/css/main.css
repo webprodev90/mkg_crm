@@ -1,0 +1,658 @@
+.active-auduo {
+    color: green;
+}
+
+.check-audio-btn:hover {
+    color: #212529;
+}
+
+.check-audio-btn.no-active-auduo:hover {
+    color: green;
+}
+
+.non-call-bg,
+.non-call-bg select {
+    background-color: #d2d2d2;
+}
+
+.rejection-bg,
+.rejection-bg select {
+    background-color: #f79c9c;
+}
+
+.lead-bg,
+.lead-bg select {
+    background-color: #f7f09c;
+}
+
+.calling-bg,
+.calling-bg select {
+    background-color: #8383D9;
+}
+
+.defect-bg,
+.defect-bg select {
+    background-color: #aaa;
+}
+
+.save-today-bg,
+.save-today-bg select {
+    background-color: #48f5a6;
+}
+
+.in-work-bg,
+.in-work-bg select {
+    background-color: #98FB98;
+}
+
+.double-bg,
+.double-bg select {
+    background-color: #d282d8;
+}
+
+.got-lost-bg,
+.got-lost-bg select {
+    background-color: #777edd;
+}
+
+.sliv-bg,
+.sliv-bg select {
+    background-color: #BC8F8F;
+}
+
+.less-than-300-bg,
+.less-than-300-bg select {
+    background-color: #b4a5c0;
+}
+
+.answering-machine-bg,
+.answering-machine-bg select {
+    background-color: #97bfef;
+}
+
+.mortgage-only-housing-bg,
+.mortgage-only-housing-bg select {
+    background-color: #CD853F;
+}
+
+.collateral-car-loan-bg,
+.collateral-car-loan-bg select {
+    background-color: #5F9EA0;
+}
+
+.mortgage-property-bg,
+.mortgage-property-bg select {
+    background-color: #8FBC8F;
+}
+
+.lots-of-property-bg,
+.lots-of-property-bg select {
+    background-color: #DB7093;
+}
+
+.bad-contact-bg,
+.bad-contact-bg select {
+    background-color: #BDB76B;
+}
+
+.negative-bg,
+.negative-bg select {
+    background-color: #CD5C5C;
+}
+
+.already-bankrupt-bg,
+.already-bankrupt-bg select {
+    background-color: #D8BFD8;
+}
+
+.hung-up-bg,
+.hung-up-bg select {
+    background-color: #E9967A;
+}
+
+.organization-bg,
+.organization-bg select {
+    background-color: #4E97EB;
+}
+
+.hung-up-target-bg,
+.hung-up-target-bg select {
+    background-color: #5bdace;
+}
+
+.ban-mav-bg,
+.ban-mav-bg select {
+    background-color: #deb887;
+}
+
+.invoice-issued-bg,
+.invoice-issued-bg select {
+    background-color: #f8d366;
+}
+
+.saled-lead-bg {
+    background-color: #ffc94c;
+}
+
+.blue-lead-bg {
+    background-color: #9fe0f8;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
+
+.show-comment:hover {
+    color: #394a6d;
+}
+
+.table-id,
+.table-settings {
+    width: 5%;
+}
+
+.table-delete,
+.table-update {
+    width: 2%;
+}
+
+.table-shipped1, 
+.table-shipped2, 
+.table-quantity-per-day, 
+.table-otbrakovka,
+.table-date-end2, 
+.table-remainder2 {
+    width: 7%;
+}
+
+.table-total-quantity, 
+.table-remainder1,
+.table-date-start {
+    width: 8%;
+}
+
+.table-partner-name {
+    width: 14%;
+}
+
+.table-partner-city,
+.table-city,
+.table-date_time_status_change,
+.table-name {
+    width: 10%;
+}
+
+.table-source,
+.table-phone {
+    width: 7%;
+}
+
+.table-status {
+    width: 10%;
+}
+
+.table-comment {
+    width: 20%;
+}
+
+.table-city-group-name {
+    width: 18%;
+}
+
+.table-lead-status, .table-lead-count, .table-lead-conversion {
+    width: calc(100% / 3);
+}
+
+.table-date-create, .table-user  {
+    width: 6%;
+}
+
+.table-created-by-user {
+    width: 10%;
+}
+
+.table-chec {
+    width: 2%;
+    text-align: center;
+}  
+
+.table-otdel, .table-operator {
+    width: 4%;
+} 
+
+.back-to-status {
+    display: inline;
+    font-weight: normal;
+    color: #2d7bf4;
+    cursor: pointer;
+}
+
+.event_counter {
+    cursor: pointer;
+    color: #2d7bf4;
+    font-weight: 600;
+}
+
+.select-status {
+    width: 60%;
+}
+
+.label-checkbox { 
+    display: inline-flex; 
+    align-items: 
+    center; gap: 5px;
+}
+.open-request:hover,
+.open-request2:hover,
+.sale-btn:hover,
+.delete-request:hover,
+.listen-audio:hover {
+    color: red;
+}
+
+.listen-audio, .check-audio-btn {
+    cursor: pointer;
+    font-size: 18px;
+}
+
+.sale-btn {
+    cursor: pointer;
+    font-size: 20px;
+}
+
+.new_lead {
+    color: red;
+    font-weight: 800;
+}
+
+.modal-open {
+    padding: 0 !important;
+}
+
+.add-plan {
+    cursor: pointer;
+    font-size: 26px;
+    color: #2d7bf4;
+}
+
+.partner-plan {
+    width: 70%;
+}
+
+.count-plan {
+    width: 25%;
+}
+
+.remove-plan {
+    width: 5%;
+}
+
+.partner-plan, .count-plan, .time-start, .time-end {
+    vertical-align: middle !important;
+}
+
+.city_check {
+    text-align: center;
+}
+
+.remove-plan-icon {
+    padding-top: 6px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.open-plan i,
+.open-rate i {
+    padding-top: 2px;
+}
+
+.plan-partner-name {
+    font-weight: 800;
+    flex-grow: 1;
+    position: relative;
+    display: flex;
+    align-items: center;
+    white-space: nowrap;
+}
+
+.plan-partner-name::after {
+    content: '';
+    height: 3px;
+    width: 100%;
+    background-image: radial-gradient(#b8bcbe 40%, transparent 50%);
+    background-size: 3px 3px;
+    background-repeat: repeat-x;
+    background-position: 0 center;
+    display: block;
+    margin-left: 5px;
+}
+
+.plan-current-request {
+    color: #007f17;
+    font-weight: 800;
+}
+
+.plan-max-request {
+    color: #7f0000;
+    font-weight: 800;
+}
+
+.remove-plan-icon:hover {
+    color: red;
+}
+
+.add-plan-modal a {
+    height: 100%;
+    display: block;
+    width: 100%;
+}
+
+.add-plan-modal {
+    height: 25px;
+    padding: 5px !important;
+    text-align: center;
+}
+
+.table-new-lead {
+    width: 5%;
+}
+
+.table-head-tr th {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+#table-request td {
+    padding: 0px !important;
+    margin: 0px !important;
+}
+
+.new_lead {
+    animation: blink 1s infinite alternate;
+}
+
+.colspan-request-group {
+    height: 20px;
+    background: black;
+    color: #fff;
+    font-size: 13px;
+    text-align: center;
+}
+
+.table-leads,
+.table-not-calls,
+.table-all-requests,
+.table-rejection,
+.table-calling {
+    width: calc(80% / 5);
+}
+
+.table-source-analize {
+    width: 20%;
+}
+
+.list-plan {
+    display: grid; 
+    grid-template-columns: repeat(4, auto); 
+    column-gap: 15px;
+}
+
+.education-title {
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+.education-subtitle {
+    margin: 25px 0 10px;
+    /* color: #0069a9; */
+}
+
+.education-paragraph-text {
+    font-size: 20px;
+    color: #444444;
+}
+
+.education-list-item {
+    font-size: 20px;
+    margin-bottom: 16px;
+    color: #444444;
+    margin-inline-start: 30px; 
+}
+
+ul li.education-list-item {
+    position: relative;
+    list-style-type: none;
+}
+
+ul li.education-list-item::before {
+    content: '🔹 ';
+    position: absolute;
+    transform: translateX(-100%);
+}
+
+.education-box-answer {
+    position: relative;
+    background-color: #e9f7ff;;
+    padding: 15px;
+    margin-top: 25px;
+    color: #000;
+}
+
+.education-box-answer::after {
+    content: '📌';
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    transform: scale(1.2);
+}
+
+.education-paragraph-text-answer {
+    font-weight: bold;
+    color: #000;
+    font-size: 20px;
+}
+
+.education-text-marker {
+    background-color: #8eff8e;
+}
+
+.education-title-marker {
+    background-color: #dfe1e3;
+}
+
+.education-text-arrow {
+    font-size: 35px;
+    text-align: center;
+}
+
+.education-warning {
+    width: fit-content;
+    padding: 15px;
+    background-color: beige;
+    margin: 0 auto;
+    font-size: large;
+    border: 1px solid sandybrown;
+}
+
+.education-color-background {
+    background-color: #e9f7ff;;
+    padding: 5px;
+}
+
+.lessons {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 25px;
+}
+
+.lesson {
+    background-color: ghostwhite; 
+    box-shadow: 0 3px 10px 0 rgba(0, 0, 0, 0.19);
+}
+
+.lesson-wrapper {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    padding: 20px;
+}
+
+.lesson-title {
+    font-weight: bold; 
+    font-size: 24px; 
+    color: darkorchid;
+    margin-bottom: 8px;
+}
+
+.lesson-status {
+    font-size: 18px;
+}
+
+.lesson-text {
+    flex-grow: 1;
+}
+
+.lesson-plan-text {
+    font-size: 18px;
+}
+
+.lesson-plan-count {
+    color: mediumblue;
+}
+
+.lesson-button {
+    font-size: 16px;
+}
+
+.lesson-blocked {
+    height: 100%; 
+    font-size: 24px; 
+    color: darkgray;
+}
+
+.lesson-blocked-icon {
+    font-size: 32px;
+}
+
+.testing-progress {
+    text-align: right; 
+    color: darkorchid; 
+    font-size: 22px; 
+    font-weight: bold;
+}
+
+.testing-question {
+    font-size: 30px;
+}
+
+.testing-button {
+    font-size: 18px;
+}
+
+.testing-button-link {
+    border: 0;
+    font-size: 18px;
+}
+
+.testing-button-link:hover {
+    text-decoration: none;
+}
+
+.testing-answer {
+    font-size: 22px; 
+    font-weight: normal; 
+    color: #595959;
+}
+
+.testing-result-text {
+    font-size: 38px;
+}  
+
+.testing-result-number {
+    font-size: 20px;
+}
+
+.testing-table-errors {
+    width: 50%;
+    text-align: left;
+    margin: 0 auto;
+    font-size: 18px;
+}
+
+.admin-task {
+    padding: 15px 0;
+    border-bottom: 1px dashed;
+    border-color: darkgrey;
+} 
+
+.update-admin-task {
+    border: 0;
+    background: #4eb7eb;
+    border-radius: 3px;
+    margin-right: 5px;
+    color: white;
+    cursor: pointer;
+}
+
+.delete-admin-task {
+    border: 0;
+    background-color: #f1556c;
+    border-radius: 3px;
+    color: white;
+    cursor: pointer;
+}
+
+.task_description {
+    width: 300px; 
+    padding: 0 15px;
+}
+
+.btn-create-admin-task {
+    min-width: 370px;
+}
+
+.form-admin-task {
+    min-width: 370px;
+}
+
+.red-lead-bg {
+    background-color: #f79c9c;
+}
+
+.form-request-legend {
+    background: #98a6ad;
+    color: white;
+    padding: 3px 8px;
+    margin-left: 20px;
+    border-radius: 5px;
+    margin-bottom: 0;
+    width: auto;
+    font-size: inherit;
+}
+
+.form-request-fieldset {
+    border: 1px solid #98a6ad;
+    border-radius: 5px;
+    padding: 15px;
+    margin-top: 10px;
+}
+
+.statuses-form {
+    display: grid;
+    gap: 5px;
+    grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
+}
+
+.btn-status-form {
+    white-space: normal;
+}
+
+@keyframes blink {
+    0% {
+        opacity: 1;
+    }
+
+    100% {
+        opacity: 0;
+    }
+}

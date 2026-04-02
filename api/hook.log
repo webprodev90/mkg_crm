@@ -1,0 +1,2673 @@
+
+------------------------
+2025.02.17 11:13:03
+lead
+Array
+(
+    [ID] => 1020
+    [TITLE] => Юрий Александрович
+    [TYPE_ID] => SALE
+    [STAGE_ID] => FINAL_INVOICE
+    [PROBABILITY] => 
+    [CURRENCY_ID] => RUB
+    [OPPORTUNITY] => 0.00
+    [IS_MANUAL_OPPORTUNITY] => N
+    [TAX_VALUE] => 
+    [LEAD_ID] => 696
+    [COMPANY_ID] => 0
+    [CONTACT_ID] => 1020
+    [QUOTE_ID] => 
+    [BEGINDATE] => 2025-02-14T03:00:00+03:00
+    [CLOSEDATE] => 2025-02-21T03:00:00+03:00
+    [ASSIGNED_BY_ID] => 14
+    [CREATED_BY_ID] => 1
+    [MODIFY_BY_ID] => 14
+    [DATE_CREATE] => 2025-02-14T13:54:48+03:00
+    [DATE_MODIFY] => 2025-02-17T11:13:00+03:00
+    [OPENED] => N
+    [CLOSED] => N
+    [COMMENTS] => [p]
+Екатерина Чернова
+
+Сумма долга: порядка 300, или больше (кредиты, кредитные карты, микрозаймы)
+Просрочки: около 2 лет
+Боль: ничего не изменилось, но финансовые нагрузки слишком трудные и неудобные
+Ежемесячный платёж: не помните
+Имущество и брак: гараж в аресте
+Залоговые кредиты: нет
+Сделки за последние 3 года: нет
+Работа (доход): 22 тысячи
+0011
+[/p]
+    [ADDITIONAL_INFO] => 
+    [LOCATION_ID] => 
+    [CATEGORY_ID] => 0
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [IS_RECURRING] => N
+    [IS_RETURN_CUSTOMER] => N
+    [IS_REPEATED_APPROACH] => N
+    [SOURCE_ID] => UC_WBH5YJ
+    [SOURCE_DESCRIPTION] => 
+    [ORIGINATOR_ID] => 
+    [ORIGIN_ID] => 
+    [MOVED_BY_ID] => 14
+    [MOVED_TIME] => 2025-02-17T11:07:26+03:00
+    [LAST_ACTIVITY_TIME] => 2025-02-14T13:54:48+03:00
+    [UTM_SOURCE] => 
+    [UTM_MEDIUM] => 
+    [UTM_CAMPAIGN] => 
+    [UTM_CONTENT] => 
+    [UTM_TERM] => 
+    [LAST_ACTIVITY_BY] => 1
+    [UF_CRM_1737357676436] => 
+    [UF_CRM_1737357696112] => 
+    [UF_CRM_1737357711196] => 
+    [UF_CRM_1737357723004] => 
+    [UF_CRM_1737357737540] => 
+    [UF_CRM_1737357752512] => 
+    [UF_CRM_1737358209973] => 
+    [UF_CRM_1737358296376] => 
+    [UF_CRM_1737358384607] => 
+    [UF_CRM_1737358501640] => 
+    [UF_CRM_1739456028409] => 
+    [UF_CRM_1739456948938] => 2025-02-17T15:00:00+03:00
+)
+1020
+------------------------
+
+------------------------
+2025.02.17 13:27:56
+lead
+Array
+(
+    [ID] => 886
+    [TITLE] => Алескей (вторичка 07.02) на онлайн консульт Пермь, назначит время. пз 10.02 с 11_12 по саратову
+    [TYPE_ID] => SALE
+    [STAGE_ID] => FINAL_INVOICE
+    [PROBABILITY] => 
+    [CURRENCY_ID] => RUB
+    [OPPORTUNITY] => 0.00
+    [IS_MANUAL_OPPORTUNITY] => N
+    [TAX_VALUE] => 0.00
+    [LEAD_ID] => 
+    [COMPANY_ID] => 0
+    [CONTACT_ID] => 888
+    [QUOTE_ID] => 
+    [BEGINDATE] => 2025-02-07T03:00:00+03:00
+    [CLOSEDATE] => 2025-02-14T03:00:00+03:00
+    [ASSIGNED_BY_ID] => 24
+    [CREATED_BY_ID] => 1
+    [MODIFY_BY_ID] => 24
+    [DATE_CREATE] => 2025-02-07T15:48:20+03:00
+    [DATE_MODIFY] => 2025-02-17T13:27:53+03:00
+    [OPENED] => Y
+    [CLOSED] => N
+    [COMMENTS] => [p]
+Екатерина Чернова
+011
+долг: 1млн 580т руб
+гос услуги показывают 1млн 40т руб
+состоит из:
+потребительский кредит = 1300000
+автокредит ( жил в екб, часть денег так взял, часть под залог купленного авто). год поездил, перевернулся на машине, страховая отказалась платить, продал машину. было это 8 лет назад
+
+просрочки: 9 лет не платил
+доход: не работает (неофициально)
+имущество: дом под мат капитал, но он сгорел. Ничего нет, живёт с двумя детьми на съёмной квартире
+семейное положение: развёлся
+сделки за 3года : нет
+в другие компании: обращался давно, предлагали еп 20-25т
+
+В пермь только весной на операцию ребёнка поедет.
+До Перми 170 км -180 км
+[/p]
+    [ADDITIONAL_INFO] => 
+    [LOCATION_ID] => 
+    [CATEGORY_ID] => 0
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [IS_RECURRING] => N
+    [IS_RETURN_CUSTOMER] => N
+    [IS_REPEATED_APPROACH] => N
+    [SOURCE_ID] => UC_WBH5YJ
+    [SOURCE_DESCRIPTION] => 
+    [ORIGINATOR_ID] => 
+    [ORIGIN_ID] => 
+    [MOVED_BY_ID] => 24
+    [MOVED_TIME] => 2025-02-17T13:27:53+03:00
+    [LAST_ACTIVITY_TIME] => 2025-02-17T12:00:00+03:00
+    [UTM_SOURCE] => 
+    [UTM_MEDIUM] => 
+    [UTM_CAMPAIGN] => 
+    [UTM_CONTENT] => 
+    [UTM_TERM] => 
+    [LAST_ACTIVITY_BY] => 24
+    [UF_CRM_1737357676436] => 
+    [UF_CRM_1737357696112] => 
+    [UF_CRM_1737357711196] => 
+    [UF_CRM_1737357723004] => 
+    [UF_CRM_1737357737540] => 
+    [UF_CRM_1737357752512] => 
+    [UF_CRM_1737358209973] => 
+    [UF_CRM_1737358296376] => 
+    [UF_CRM_1737358384607] => 
+    [UF_CRM_1737358501640] => 
+    [UF_CRM_1739456028409] => 
+    [UF_CRM_1739456948938] => 2025-02-17T14:00:00+03:00
+)
+886
+------------------------
+
+------------------------
+2025.02.17 17:15:02
+lead
+Array
+(
+    [ID] => 870
+    [TITLE] => Сергей
+    [TYPE_ID] => SALE
+    [STAGE_ID] => FINAL_INVOICE
+    [PROBABILITY] => 
+    [CURRENCY_ID] => RUB
+    [OPPORTUNITY] => 0.00
+    [IS_MANUAL_OPPORTUNITY] => N
+    [TAX_VALUE] => 
+    [LEAD_ID] => 606
+    [COMPANY_ID] => 0
+    [CONTACT_ID] => 1026
+    [QUOTE_ID] => 
+    [BEGINDATE] => 2025-02-07T03:00:00+03:00
+    [CLOSEDATE] => 2025-02-14T03:00:00+03:00
+    [ASSIGNED_BY_ID] => 14
+    [CREATED_BY_ID] => 1
+    [MODIFY_BY_ID] => 1
+    [DATE_CREATE] => 2025-02-07T09:23:41+03:00
+    [DATE_MODIFY] => 2025-02-17T17:14:57+03:00
+    [OPENED] => N
+    [CLOSED] => N
+    [COMMENTS] => [p]
+МПП - Дмитрий Тарлыков
+Челябинск. Аргаякский. 
+Сумма долга: 730 (кредит - взяли мошенники 290+испол сбор, 230 - исполнительный лист причинение мат вреда и аллименты, ребёнку 31 год, а алименты висят)
+Просрочки: 2013 год
+Боль: начали высчитывать
+Ежемесячный платёж: 7500
+Имущество и брак: дом, земельный участок
+Залоговые кредиты: нет
+Сделки за последние 3 года: нет
+Работа (доход): высчитывают 50%, пенсия - 15 тысяч.
+Клиент понимает что алименты не списать. Вопрос об остальном долге. 
+Дом с землей на одной территории. Но два разных документа
+Постройки во дворе только временные.
+Земля 8 соток, дом 64кв.м
+0012
+
+
+[/p]
+    [ADDITIONAL_INFO] => 
+    [LOCATION_ID] => 
+    [CATEGORY_ID] => 0
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [IS_RECURRING] => N
+    [IS_RETURN_CUSTOMER] => N
+    [IS_REPEATED_APPROACH] => N
+    [SOURCE_ID] => UC_WBH5YJ
+    [SOURCE_DESCRIPTION] => 
+    [ORIGINATOR_ID] => 
+    [ORIGIN_ID] => 
+    [MOVED_BY_ID] => 1
+    [MOVED_TIME] => 2025-02-17T17:14:52+03:00
+    [LAST_ACTIVITY_TIME] => 2025-02-17T15:00:00+03:00
+    [UTM_SOURCE] => 
+    [UTM_MEDIUM] => 
+    [UTM_CAMPAIGN] => 
+    [UTM_CONTENT] => 
+    [UTM_TERM] => 
+    [LAST_ACTIVITY_BY] => 14
+    [UF_CRM_1737357676436] => 
+    [UF_CRM_1737357696112] => 
+    [UF_CRM_1737357711196] => 
+    [UF_CRM_1737357723004] => 
+    [UF_CRM_1737357737540] => 
+    [UF_CRM_1737357752512] => 
+    [UF_CRM_1737358209973] => 
+    [UF_CRM_1737358296376] => 
+    [UF_CRM_1737358384607] => 
+    [UF_CRM_1737358501640] => 
+    [UF_CRM_1739456028409] => 
+    [UF_CRM_1739456948938] => 2025-02-18T10:00:00+03:00
+)
+870
+------------------------
+
+------------------------
+2025.02.17 17:21:17
+lead
+Array
+(
+    [ID] => 760
+    [TITLE] => Таисия (новая, на другой тел на) на 10 в тч. дня на онлай-консультацию уточнить
+    [TYPE_ID] => SALE
+    [STAGE_ID] => FINAL_INVOICE
+    [PROBABILITY] => 
+    [CURRENCY_ID] => RUB
+    [OPPORTUNITY] => 0.00
+    [IS_MANUAL_OPPORTUNITY] => N
+    [TAX_VALUE] => 
+    [LEAD_ID] => 514
+    [COMPANY_ID] => 0
+    [CONTACT_ID] => 764
+    [QUOTE_ID] => 
+    [BEGINDATE] => 2025-02-04T03:00:00+03:00
+    [CLOSEDATE] => 2025-02-11T03:00:00+03:00
+    [ASSIGNED_BY_ID] => 24
+    [CREATED_BY_ID] => 1
+    [MODIFY_BY_ID] => 24
+    [DATE_CREATE] => 2025-02-04T13:40:23+03:00
+    [DATE_MODIFY] => 2025-02-17T17:21:13+03:00
+    [OPENED] => N
+    [CLOSED] => N
+    [COMMENTS] => [p]
+Дмитрий Тарлыков
+долг: 307т. на гос. услугах показывает = 324 руб 98 т.
+что именно: кредиты 3 кредитные карты, микрозаймы, ЖКХ. 
+как давно не платите: с 2022 года 
+причина: ребёнок заболел, с работы ушла
+залог: нет 
+еп: не знает
+имущество: 1/2 в доля в доме
+доход: по уходу за ребенком инвалидом =13т. 
+семейное положение: не замужем
+сделки за 3 года: нет
+0011
+интернет через раз ловит
+связь есть
+ватсап есть
+
+[/p]
+    [ADDITIONAL_INFO] => 
+    [LOCATION_ID] => 
+    [CATEGORY_ID] => 0
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [IS_RECURRING] => N
+    [IS_RETURN_CUSTOMER] => N
+    [IS_REPEATED_APPROACH] => N
+    [SOURCE_ID] => UC_WBH5YJ
+    [SOURCE_DESCRIPTION] => 
+    [ORIGINATOR_ID] => 
+    [ORIGIN_ID] => 
+    [MOVED_BY_ID] => 24
+    [MOVED_TIME] => 2025-02-17T17:21:13+03:00
+    [LAST_ACTIVITY_TIME] => 2025-02-17T12:00:00+03:00
+    [UTM_SOURCE] => 
+    [UTM_MEDIUM] => 
+    [UTM_CAMPAIGN] => 
+    [UTM_CONTENT] => 
+    [UTM_TERM] => 
+    [LAST_ACTIVITY_BY] => 24
+    [UF_CRM_1737357676436] => 
+    [UF_CRM_1737357696112] => 
+    [UF_CRM_1737357711196] => 
+    [UF_CRM_1737357723004] => 
+    [UF_CRM_1737357737540] => 
+    [UF_CRM_1737357752512] => 
+    [UF_CRM_1737358209973] => 
+    [UF_CRM_1737358296376] => 
+    [UF_CRM_1737358384607] => 
+    [UF_CRM_1737358501640] => 
+    [UF_CRM_1739456028409] => 
+    [UF_CRM_1739456948938] => 2025-02-18T11:00:00+03:00
+)
+760
+------------------------
+
+------------------------
+2025.02.18 9:15:14
+lead
+Array
+(
+    [ID] => 760
+    [TITLE] => Таисия (новая, на другой тел на) на 10 в тч. дня на онлай-консультацию уточнить
+    [TYPE_ID] => SALE
+    [STAGE_ID] => FINAL_INVOICE
+    [PROBABILITY] => 
+    [CURRENCY_ID] => RUB
+    [OPPORTUNITY] => 0.00
+    [IS_MANUAL_OPPORTUNITY] => N
+    [TAX_VALUE] => 
+    [LEAD_ID] => 514
+    [COMPANY_ID] => 0
+    [CONTACT_ID] => 764
+    [QUOTE_ID] => 
+    [BEGINDATE] => 2025-02-04T03:00:00+03:00
+    [CLOSEDATE] => 2025-02-11T03:00:00+03:00
+    [ASSIGNED_BY_ID] => 24
+    [CREATED_BY_ID] => 1
+    [MODIFY_BY_ID] => 0
+    [DATE_CREATE] => 2025-02-04T13:40:23+03:00
+    [DATE_MODIFY] => 2025-02-18T09:15:10+03:00
+    [OPENED] => N
+    [CLOSED] => N
+    [COMMENTS] => [p]
+Дмитрий Тарлыков
+долг: 307т. на гос. услугах показывает = 324 руб 98 т.
+что именно: кредиты 3 кредитные карты, микрозаймы, ЖКХ. 
+как давно не платите: с 2022 года 
+причина: ребёнок заболел, с работы ушла
+залог: нет 
+еп: не знает
+имущество: 1/2 в доля в доме
+доход: по уходу за ребенком инвалидом =13т. 
+семейное положение: не замужем
+сделки за 3 года: нет
+0011
+интернет через раз ловит
+связь есть
+ватсап есть
+
+[/p]
+    [ADDITIONAL_INFO] => 
+    [LOCATION_ID] => 
+    [CATEGORY_ID] => 0
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [IS_RECURRING] => N
+    [IS_RETURN_CUSTOMER] => N
+    [IS_REPEATED_APPROACH] => N
+    [SOURCE_ID] => UC_WBH5YJ
+    [SOURCE_DESCRIPTION] => 
+    [ORIGINATOR_ID] => 
+    [ORIGIN_ID] => 
+    [MOVED_BY_ID] => 24
+    [MOVED_TIME] => 2025-02-17T17:21:13+03:00
+    [LAST_ACTIVITY_TIME] => 2025-02-18T09:15:00+03:00
+    [UTM_SOURCE] => 
+    [UTM_MEDIUM] => 
+    [UTM_CAMPAIGN] => 
+    [UTM_CONTENT] => 
+    [UTM_TERM] => 
+    [LAST_ACTIVITY_BY] => 24
+    [UF_CRM_1737357676436] => 
+    [UF_CRM_1737357696112] => 
+    [UF_CRM_1737357711196] => 
+    [UF_CRM_1737357723004] => 
+    [UF_CRM_1737357737540] => 
+    [UF_CRM_1737357752512] => 
+    [UF_CRM_1737358209973] => 
+    [UF_CRM_1737358296376] => 
+    [UF_CRM_1737358384607] => 
+    [UF_CRM_1737358501640] => 
+    [UF_CRM_1739456028409] => 
+    [UF_CRM_1739456948938] => 2025-02-18T11:00:00+03:00
+)
+760
+------------------------
+
+------------------------
+2025.02.18 9:30:36
+lead
+Array
+(
+    [ID] => 760
+    [TITLE] => Таисия (новая, на другой тел на) на 10 в тч. дня на онлай-консультацию уточнить
+    [TYPE_ID] => SALE
+    [STAGE_ID] => FINAL_INVOICE
+    [PROBABILITY] => 
+    [CURRENCY_ID] => RUB
+    [OPPORTUNITY] => 0.00
+    [IS_MANUAL_OPPORTUNITY] => N
+    [TAX_VALUE] => 
+    [LEAD_ID] => 514
+    [COMPANY_ID] => 0
+    [CONTACT_ID] => 764
+    [QUOTE_ID] => 
+    [BEGINDATE] => 2025-02-04T03:00:00+03:00
+    [CLOSEDATE] => 2025-02-11T03:00:00+03:00
+    [ASSIGNED_BY_ID] => 24
+    [CREATED_BY_ID] => 1
+    [MODIFY_BY_ID] => 0
+    [DATE_CREATE] => 2025-02-04T13:40:23+03:00
+    [DATE_MODIFY] => 2025-02-18T09:30:32+03:00
+    [OPENED] => N
+    [CLOSED] => N
+    [COMMENTS] => [p]
+Дмитрий Тарлыков
+долг: 307т. на гос. услугах показывает = 324 руб 98 т.
+что именно: кредиты 3 кредитные карты, микрозаймы, ЖКХ. 
+как давно не платите: с 2022 года 
+причина: ребёнок заболел, с работы ушла
+залог: нет 
+еп: не знает
+имущество: 1/2 в доля в доме
+доход: по уходу за ребенком инвалидом =13т. 
+семейное положение: не замужем
+сделки за 3 года: нет
+0011
+интернет через раз ловит
+связь есть
+ватсап есть
+
+[/p]
+    [ADDITIONAL_INFO] => 
+    [LOCATION_ID] => 
+    [CATEGORY_ID] => 0
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [IS_RECURRING] => N
+    [IS_RETURN_CUSTOMER] => N
+    [IS_REPEATED_APPROACH] => N
+    [SOURCE_ID] => UC_WBH5YJ
+    [SOURCE_DESCRIPTION] => 
+    [ORIGINATOR_ID] => 
+    [ORIGIN_ID] => 
+    [MOVED_BY_ID] => 24
+    [MOVED_TIME] => 2025-02-17T17:21:13+03:00
+    [LAST_ACTIVITY_TIME] => 2025-02-18T09:30:00+03:00
+    [UTM_SOURCE] => 
+    [UTM_MEDIUM] => 
+    [UTM_CAMPAIGN] => 
+    [UTM_CONTENT] => 
+    [UTM_TERM] => 
+    [LAST_ACTIVITY_BY] => 24
+    [UF_CRM_1737357676436] => 
+    [UF_CRM_1737357696112] => 
+    [UF_CRM_1737357711196] => 
+    [UF_CRM_1737357723004] => 
+    [UF_CRM_1737357737540] => 
+    [UF_CRM_1737357752512] => 
+    [UF_CRM_1737358209973] => 
+    [UF_CRM_1737358296376] => 
+    [UF_CRM_1737358384607] => 
+    [UF_CRM_1737358501640] => 
+    [UF_CRM_1739456028409] => 
+    [UF_CRM_1739456948938] => 2025-02-18T11:00:00+03:00
+)
+760
+------------------------
+
+------------------------
+2025.02.18 10:01:03
+lead
+Array
+(
+    [ID] => 910
+    [TITLE] => Валерий Степанович
+    [TYPE_ID] => SALE
+    [STAGE_ID] => FINAL_INVOICE
+    [PROBABILITY] => 
+    [CURRENCY_ID] => RUB
+    [OPPORTUNITY] => 0.00
+    [IS_MANUAL_OPPORTUNITY] => N
+    [TAX_VALUE] => 
+    [LEAD_ID] => 626
+    [COMPANY_ID] => 0
+    [CONTACT_ID] => 912
+    [QUOTE_ID] => 
+    [BEGINDATE] => 2025-02-10T03:00:00+03:00
+    [CLOSEDATE] => 2025-02-17T03:00:00+03:00
+    [ASSIGNED_BY_ID] => 14
+    [CREATED_BY_ID] => 1
+    [MODIFY_BY_ID] => 14
+    [DATE_CREATE] => 2025-02-10T12:01:20+03:00
+    [DATE_MODIFY] => 2025-02-18T10:00:59+03:00
+    [OPENED] => N
+    [CLOSED] => N
+    [COMMENTS] => [p]
+Дмитрий Тарлыков
+Ростовская область Кулешовка.
+Сумма долга: 600 с лишним (3 банка, выкупили долги коллекторы, кредиты страховал, оплачивал взносы)
+Просрочки: в 2016 перестал платить, инвалид 1 группы
+Боль:
+Ежемесячный платёж: 13 тысяч
+Имущество и брак: 1 дом, 5 соток, старый дом 1964 постройки, всё.
+Залоговые кредиты: нет
+Сделки за последние 3 года: нет
+Работа (доход): 26 тысяч снимают 50% пристава, оставлают прожит минимум и с него оплачивает ЖКХ и на еду, остаётся около 5-6 тысяч
+0011
+[/p]
+    [ADDITIONAL_INFO] => 
+    [LOCATION_ID] => 
+    [CATEGORY_ID] => 0
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [IS_RECURRING] => N
+    [IS_RETURN_CUSTOMER] => N
+    [IS_REPEATED_APPROACH] => N
+    [SOURCE_ID] => UC_WBH5YJ
+    [SOURCE_DESCRIPTION] => 
+    [ORIGINATOR_ID] => 
+    [ORIGIN_ID] => 
+    [MOVED_BY_ID] => 14
+    [MOVED_TIME] => 2025-02-18T10:00:59+03:00
+    [LAST_ACTIVITY_TIME] => 2025-02-10T12:01:20+03:00
+    [UTM_SOURCE] => 
+    [UTM_MEDIUM] => 
+    [UTM_CAMPAIGN] => 
+    [UTM_CONTENT] => 
+    [UTM_TERM] => 
+    [LAST_ACTIVITY_BY] => 1
+    [UF_CRM_1737357676436] => 
+    [UF_CRM_1737357696112] => 
+    [UF_CRM_1737357711196] => 
+    [UF_CRM_1737357723004] => 
+    [UF_CRM_1737357737540] => 
+    [UF_CRM_1737357752512] => 
+    [UF_CRM_1737358209973] => 
+    [UF_CRM_1737358296376] => 
+    [UF_CRM_1737358384607] => 
+    [UF_CRM_1737358501640] => 
+    [UF_CRM_1739456028409] => 
+    [UF_CRM_1739456948938] => 2025-02-14T14:00:00+03:00
+)
+910
+------------------------
+
+------------------------
+2025.02.18 10:07:22
+lead
+Array
+(
+    [ID] => 1020
+    [TITLE] => Юрий Александрович
+    [TYPE_ID] => SALE
+    [STAGE_ID] => FINAL_INVOICE
+    [PROBABILITY] => 
+    [CURRENCY_ID] => RUB
+    [OPPORTUNITY] => 0.00
+    [IS_MANUAL_OPPORTUNITY] => N
+    [TAX_VALUE] => 
+    [LEAD_ID] => 696
+    [COMPANY_ID] => 0
+    [CONTACT_ID] => 1020
+    [QUOTE_ID] => 
+    [BEGINDATE] => 2025-02-14T03:00:00+03:00
+    [CLOSEDATE] => 2025-02-21T03:00:00+03:00
+    [ASSIGNED_BY_ID] => 14
+    [CREATED_BY_ID] => 1
+    [MODIFY_BY_ID] => 14
+    [DATE_CREATE] => 2025-02-14T13:54:48+03:00
+    [DATE_MODIFY] => 2025-02-18T10:07:20+03:00
+    [OPENED] => N
+    [CLOSED] => N
+    [COMMENTS] => [p]
+Екатерина Чернова
+
+Сумма долга: порядка 300, или больше (кредиты, кредитные карты, микрозаймы)
+Просрочки: около 2 лет
+Боль: ничего не изменилось, но финансовые нагрузки слишком трудные и неудобные
+Ежемесячный платёж: не помните
+Имущество и брак: гараж в аресте
+Залоговые кредиты: нет
+Сделки за последние 3 года: нет
+Работа (доход): 22 тысячи
+0011
+[/p]
+    [ADDITIONAL_INFO] => 
+    [LOCATION_ID] => 
+    [CATEGORY_ID] => 0
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [IS_RECURRING] => N
+    [IS_RETURN_CUSTOMER] => N
+    [IS_REPEATED_APPROACH] => N
+    [SOURCE_ID] => UC_WBH5YJ
+    [SOURCE_DESCRIPTION] => 
+    [ORIGINATOR_ID] => 
+    [ORIGIN_ID] => 
+    [MOVED_BY_ID] => 14
+    [MOVED_TIME] => 2025-02-18T10:07:20+03:00
+    [LAST_ACTIVITY_TIME] => 2025-02-14T13:54:48+03:00
+    [UTM_SOURCE] => 
+    [UTM_MEDIUM] => 
+    [UTM_CAMPAIGN] => 
+    [UTM_CONTENT] => 
+    [UTM_TERM] => 
+    [LAST_ACTIVITY_BY] => 1
+    [UF_CRM_1737357676436] => 
+    [UF_CRM_1737357696112] => 
+    [UF_CRM_1737357711196] => 
+    [UF_CRM_1737357723004] => 
+    [UF_CRM_1737357737540] => 
+    [UF_CRM_1737357752512] => 
+    [UF_CRM_1737358209973] => 
+    [UF_CRM_1737358296376] => 
+    [UF_CRM_1737358384607] => 
+    [UF_CRM_1737358501640] => 
+    [UF_CRM_1739456028409] => 
+    [UF_CRM_1739456948938] => 2025-02-17T15:00:00+03:00
+)
+1020
+------------------------
+
+------------------------
+2025.02.18 10:53:41
+lead
+Array
+(
+    [ID] => 652
+    [TITLE] => Валерий Юрьевич
+    [TYPE_ID] => SALE
+    [STAGE_ID] => FINAL_INVOICE
+    [PROBABILITY] => 
+    [CURRENCY_ID] => RUB
+    [OPPORTUNITY] => 0.00
+    [IS_MANUAL_OPPORTUNITY] => N
+    [TAX_VALUE] => 
+    [LEAD_ID] => 410
+    [COMPANY_ID] => 0
+    [CONTACT_ID] => 654
+    [QUOTE_ID] => 
+    [BEGINDATE] => 2025-01-29T03:00:00+03:00
+    [CLOSEDATE] => 2025-02-05T03:00:00+03:00
+    [ASSIGNED_BY_ID] => 14
+    [CREATED_BY_ID] => 1
+    [MODIFY_BY_ID] => 14
+    [DATE_CREATE] => 2025-01-29T14:32:18+03:00
+    [DATE_MODIFY] => 2025-02-18T10:53:38+03:00
+    [OPENED] => N
+    [CLOSED] => N
+    [COMMENTS] => [p]
+Екатерина Чернова
+
+Сумма долга: больше 300 тысяч 
+[/p]
+[p]
+Просрочки: просрочки порядка года, чуть меньше
+[/p]
+[p]
+Боль: была в больнице и был не в состоянии заниматься этим долгом, сейчас появилось время и силы
+
+Ежемесячный платёж: не знает
+[/p]
+[p]
+Имущество и брак: квартира и всё
+[/p]
+[p]
+Залоговые кредиты: нет
+[/p]
+[p]
+Сделки за последние 3 года: не было
+[/p]
+[p]
+Работа (доход): не работает.
+0011
+[/p]
+    [ADDITIONAL_INFO] => 
+    [LOCATION_ID] => 
+    [CATEGORY_ID] => 0
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [IS_RECURRING] => N
+    [IS_RETURN_CUSTOMER] => N
+    [IS_REPEATED_APPROACH] => N
+    [SOURCE_ID] => UC_WBH5YJ
+    [SOURCE_DESCRIPTION] => 
+    [ORIGINATOR_ID] => 
+    [ORIGIN_ID] => 
+    [MOVED_BY_ID] => 14
+    [MOVED_TIME] => 2025-02-18T10:53:38+03:00
+    [LAST_ACTIVITY_TIME] => 2025-01-29T14:32:18+03:00
+    [UTM_SOURCE] => 
+    [UTM_MEDIUM] => 
+    [UTM_CAMPAIGN] => 
+    [UTM_CONTENT] => 
+    [UTM_TERM] => 
+    [LAST_ACTIVITY_BY] => 1
+    [UF_CRM_1737357676436] => 
+    [UF_CRM_1737357696112] => 
+    [UF_CRM_1737357711196] => 
+    [UF_CRM_1737357723004] => 
+    [UF_CRM_1737357737540] => 
+    [UF_CRM_1737357752512] => 
+    [UF_CRM_1737358209973] => 
+    [UF_CRM_1737358296376] => 
+    [UF_CRM_1737358384607] => 
+    [UF_CRM_1737358501640] => 
+    [UF_CRM_1739456028409] => 
+    [UF_CRM_1739456948938] => 2025-02-17T12:00:00+03:00
+)
+652
+------------------------
+
+------------------------
+2025.02.18 12:13:52
+lead
+Array
+(
+    [ID] => 1038
+    [TITLE] => Куртабасов Александр Павлович
+    [TYPE_ID] => SALE
+    [STAGE_ID] => FINAL_INVOICE
+    [PROBABILITY] => 
+    [CURRENCY_ID] => RUB
+    [OPPORTUNITY] => 0.00
+    [IS_MANUAL_OPPORTUNITY] => N
+    [TAX_VALUE] => 
+    [LEAD_ID] => 
+    [COMPANY_ID] => 0
+    [CONTACT_ID] => 1028
+    [QUOTE_ID] => 
+    [BEGINDATE] => 2025-02-18T03:00:00+03:00
+    [CLOSEDATE] => 2025-02-25T03:00:00+03:00
+    [ASSIGNED_BY_ID] => 14
+    [CREATED_BY_ID] => 14
+    [MODIFY_BY_ID] => 14
+    [DATE_CREATE] => 2025-02-18T11:41:53+03:00
+    [DATE_MODIFY] => 2025-02-18T12:13:48+03:00
+    [OPENED] => N
+    [CLOSED] => N
+    [COMMENTS] => [p]
+Анастасия Верова
+Сумма долга: 430 (кредиты, микрозаймы, во алиментам в пределах25) 3 ребёнка, 2 несовершенолетних ребёнка, 1 живёт отдельно
+Просрочки: давно, с 18 года
+Боль: предприятие закрывается, где он работает уже 1 апреля официально, останется без работы
+Ежемесячный платёж: 50% с зп и пенсии, порядка 50 тысяч
+Имущество и брак: нет, квартира
+Залоговые кредиты: нет
+Сделки за последние 3 года: нет
+Работа (доход): В сумме после всех вычетов остаётся 50-60 тысяч, вычитают 50% с зарплаты, и с пенсии по 10 тысяч. Пенсия - 20 тысяч, ЗП - 80-100 тысяч, но скоро уволиться, 1 Апреля. Ранее заключал договор с юркой, но они ему толком не помогли.
+0012
+[/p]
+    [ADDITIONAL_INFO] => 
+    [LOCATION_ID] => 
+    [CATEGORY_ID] => 0
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [IS_RECURRING] => N
+    [IS_RETURN_CUSTOMER] => N
+    [IS_REPEATED_APPROACH] => N
+    [SOURCE_ID] => UC_WBH5YJ
+    [SOURCE_DESCRIPTION] => 
+    [ORIGINATOR_ID] => 
+    [ORIGIN_ID] => 
+    [MOVED_BY_ID] => 14
+    [MOVED_TIME] => 2025-02-18T12:13:48+03:00
+    [LAST_ACTIVITY_TIME] => 2025-02-18T11:41:53+03:00
+    [UTM_SOURCE] => 
+    [UTM_MEDIUM] => 
+    [UTM_CAMPAIGN] => 
+    [UTM_CONTENT] => 
+    [UTM_TERM] => 
+    [LAST_ACTIVITY_BY] => 14
+    [UF_CRM_1737357676436] => 
+    [UF_CRM_1737357696112] => 
+    [UF_CRM_1737357711196] => 
+    [UF_CRM_1737357723004] => 
+    [UF_CRM_1737357737540] => 
+    [UF_CRM_1737357752512] => 
+    [UF_CRM_1737358209973] => 
+    [UF_CRM_1737358296376] => 
+    [UF_CRM_1737358384607] => 
+    [UF_CRM_1737358501640] => 
+    [UF_CRM_1739456028409] => 
+    [UF_CRM_1739456948938] => 2025-02-18T13:00:00+03:00
+)
+1038
+------------------------
+
+------------------------
+2025.02.18 12:24:15
+lead
+Array
+(
+    [ID] => 1040
+    [TITLE] => Галина Сергеевна он-к. на 14:00 по саратову
+    [TYPE_ID] => SALE
+    [STAGE_ID] => FINAL_INVOICE
+    [PROBABILITY] => 
+    [CURRENCY_ID] => RUB
+    [OPPORTUNITY] => 0.00
+    [IS_MANUAL_OPPORTUNITY] => N
+    [TAX_VALUE] => 
+    [LEAD_ID] => 742
+    [COMPANY_ID] => 0
+    [CONTACT_ID] => 1030
+    [QUOTE_ID] => 
+    [BEGINDATE] => 2025-02-18T03:00:00+03:00
+    [CLOSEDATE] => 2025-02-25T03:00:00+03:00
+    [ASSIGNED_BY_ID] => 24
+    [CREATED_BY_ID] => 24
+    [MODIFY_BY_ID] => 1
+    [DATE_CREATE] => 2025-02-18T11:44:54+03:00
+    [DATE_MODIFY] => 2025-02-18T12:24:12+03:00
+    [OPENED] => N
+    [CLOSED] => N
+    [COMMENTS] => [p]
+Анастасия Верова
+0011
+долг: 350т
+что именно: кредиты и ЖКХ
+как давно не платите: с 2016 года
+причина: не хватало денег
+еп: не помнит
+залог: нет
+имущество: нет
+доход: пенсия по возрасту = 12т (50% приставы) итого: 6т
+семейное положение: холост
+сделки за 3 года: нет
+другие организации: обращалась, но так и не дошла до договора. 
+[/p]
+    [ADDITIONAL_INFO] => 
+    [LOCATION_ID] => 
+    [CATEGORY_ID] => 0
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [IS_RECURRING] => N
+    [IS_RETURN_CUSTOMER] => N
+    [IS_REPEATED_APPROACH] => N
+    [SOURCE_ID] => UC_WBH5YJ
+    [SOURCE_DESCRIPTION] => 
+    [ORIGINATOR_ID] => 
+    [ORIGIN_ID] => 
+    [MOVED_BY_ID] => 24
+    [MOVED_TIME] => 2025-02-18T11:45:12+03:00
+    [LAST_ACTIVITY_TIME] => 2025-02-18T11:44:54+03:00
+    [UTM_SOURCE] => 
+    [UTM_MEDIUM] => 
+    [UTM_CAMPAIGN] => 
+    [UTM_CONTENT] => 
+    [UTM_TERM] => 
+    [LAST_ACTIVITY_BY] => 24
+    [UF_CRM_1737357676436] => 
+    [UF_CRM_1737357696112] => 
+    [UF_CRM_1737357711196] => 
+    [UF_CRM_1737357723004] => 
+    [UF_CRM_1737357737540] => 
+    [UF_CRM_1737357752512] => 
+    [UF_CRM_1737358209973] => 
+    [UF_CRM_1737358296376] => 
+    [UF_CRM_1737358384607] => 
+    [UF_CRM_1737358501640] => 
+    [UF_CRM_1739456028409] => 
+    [UF_CRM_1739456948938] => 2025-02-18T13:00:00+03:00
+)
+1040
+------------------------
+
+------------------------
+2025.02.18 12:24:28
+lead
+Array
+(
+    [ID] => 1040
+    [TITLE] => Галина Сергеевна он-к. на 14:00 по саратову
+    [TYPE_ID] => SALE
+    [STAGE_ID] => FINAL_INVOICE
+    [PROBABILITY] => 
+    [CURRENCY_ID] => RUB
+    [OPPORTUNITY] => 0.00
+    [IS_MANUAL_OPPORTUNITY] => N
+    [TAX_VALUE] => 
+    [LEAD_ID] => 742
+    [COMPANY_ID] => 0
+    [CONTACT_ID] => 1030
+    [QUOTE_ID] => 
+    [BEGINDATE] => 2025-02-18T03:00:00+03:00
+    [CLOSEDATE] => 2025-02-25T03:00:00+03:00
+    [ASSIGNED_BY_ID] => 24
+    [CREATED_BY_ID] => 24
+    [MODIFY_BY_ID] => 1
+    [DATE_CREATE] => 2025-02-18T11:44:54+03:00
+    [DATE_MODIFY] => 2025-02-18T12:24:25+03:00
+    [OPENED] => N
+    [CLOSED] => N
+    [COMMENTS] => [p]
+Анастасия Верова
+0011
+долг: 350т
+что именно: кредиты и ЖКХ
+как давно не платите: с 2016 года
+причина: не хватало денег
+еп: не помнит
+залог: нет
+имущество: нет
+доход: пенсия по возрасту = 12т (50% приставы) итого: 6т
+семейное положение: холост
+сделки за 3 года: нет
+другие организации: обращалась, но так и не дошла до договора. 
+[/p]
+    [ADDITIONAL_INFO] => 
+    [LOCATION_ID] => 
+    [CATEGORY_ID] => 0
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [IS_RECURRING] => N
+    [IS_RETURN_CUSTOMER] => N
+    [IS_REPEATED_APPROACH] => N
+    [SOURCE_ID] => UC_WBH5YJ
+    [SOURCE_DESCRIPTION] => 
+    [ORIGINATOR_ID] => 
+    [ORIGIN_ID] => 
+    [MOVED_BY_ID] => 24
+    [MOVED_TIME] => 2025-02-18T11:45:12+03:00
+    [LAST_ACTIVITY_TIME] => 2025-02-18T11:44:54+03:00
+    [UTM_SOURCE] => 
+    [UTM_MEDIUM] => 
+    [UTM_CAMPAIGN] => 
+    [UTM_CONTENT] => 
+    [UTM_TERM] => 
+    [LAST_ACTIVITY_BY] => 24
+    [UF_CRM_1737357676436] => 
+    [UF_CRM_1737357696112] => 
+    [UF_CRM_1737357711196] => 
+    [UF_CRM_1737357723004] => 
+    [UF_CRM_1737357737540] => 
+    [UF_CRM_1737357752512] => 
+    [UF_CRM_1737358209973] => 
+    [UF_CRM_1737358296376] => 
+    [UF_CRM_1737358384607] => 
+    [UF_CRM_1737358501640] => 
+    [UF_CRM_1739456028409] => 
+    [UF_CRM_1739456948938] => 2025-02-18T14:00:00+03:00
+)
+1040
+------------------------
+
+------------------------
+2025.02.18 12:28:03
+lead
+Array
+(
+    [ID] => 984
+    [TITLE] => Валентина Борисовна запись на 17.02
+    [TYPE_ID] => SALE
+    [STAGE_ID] => FINAL_INVOICE
+    [PROBABILITY] => 
+    [CURRENCY_ID] => RUB
+    [OPPORTUNITY] => 0.00
+    [IS_MANUAL_OPPORTUNITY] => N
+    [TAX_VALUE] => 
+    [LEAD_ID] => 676
+    [COMPANY_ID] => 0
+    [CONTACT_ID] => 986
+    [QUOTE_ID] => 
+    [BEGINDATE] => 2025-02-13T03:00:00+03:00
+    [CLOSEDATE] => 2025-02-20T03:00:00+03:00
+    [ASSIGNED_BY_ID] => 24
+    [CREATED_BY_ID] => 1
+    [MODIFY_BY_ID] => 24
+    [DATE_CREATE] => 2025-02-13T09:01:15+03:00
+    [DATE_MODIFY] => 2025-02-18T12:27:59+03:00
+    [OPENED] => N
+    [CLOSED] => N
+    [COMMENTS] => [p]
+Анастасия Верова
+0011
+долг 330т
+2 кредита (альфабанк кредит сбер) 
+просрочки: с января 2025
+причина: помимо пенсии был ещё доп. доход, его не стало, трудно оплачивать
+еп: 24т 
+даты еп: 15.02
+залог: нет
+доход: пенсия 25т
+имущество: только частный дом
+за 3 года сделки: была продажа авто и квартиры в счёт погашения долгов. Расписки есть и договора (брала у физ.лиц в долг под расписку)
+ в 2024 январь продала авто 600т ( 300т на погашение долга под расписку, остальные 300т без расписки)
+июнь 2024г. продажа 1 комнатная квартира 1 млн 600 т руб, чтобы оплатить долги. Есть договора и расписка
+в другие организации: разговаривала по тел, но всё останавливалось только на тел
+
+[/p]
+    [ADDITIONAL_INFO] => 
+    [LOCATION_ID] => 
+    [CATEGORY_ID] => 0
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [IS_RECURRING] => N
+    [IS_RETURN_CUSTOMER] => N
+    [IS_REPEATED_APPROACH] => N
+    [SOURCE_ID] => UC_WBH5YJ
+    [SOURCE_DESCRIPTION] => 
+    [ORIGINATOR_ID] => 
+    [ORIGIN_ID] => 
+    [MOVED_BY_ID] => 24
+    [MOVED_TIME] => 2025-02-18T12:27:59+03:00
+    [LAST_ACTIVITY_TIME] => 2025-02-13T09:01:15+03:00
+    [UTM_SOURCE] => 
+    [UTM_MEDIUM] => 
+    [UTM_CAMPAIGN] => 
+    [UTM_CONTENT] => 
+    [UTM_TERM] => 
+    [LAST_ACTIVITY_BY] => 1
+    [UF_CRM_1737357676436] => 
+    [UF_CRM_1737357696112] => 
+    [UF_CRM_1737357711196] => 
+    [UF_CRM_1737357723004] => 
+    [UF_CRM_1737357737540] => 
+    [UF_CRM_1737357752512] => 
+    [UF_CRM_1737358209973] => 
+    [UF_CRM_1737358296376] => 
+    [UF_CRM_1737358384607] => 
+    [UF_CRM_1737358501640] => 
+    [UF_CRM_1739456028409] => 
+    [UF_CRM_1739456948938] => 2025-02-18T15:00:00+03:00
+)
+984
+------------------------
+
+------------------------
+2025.02.18 12:45:36
+lead
+Array
+(
+    [ID] => 948
+    [TITLE] => Надежда Владимировна
+    [TYPE_ID] => SALE
+    [STAGE_ID] => FINAL_INVOICE
+    [PROBABILITY] => 
+    [CURRENCY_ID] => RUB
+    [OPPORTUNITY] => 0.00
+    [IS_MANUAL_OPPORTUNITY] => N
+    [TAX_VALUE] => 
+    [LEAD_ID] => 654
+    [COMPANY_ID] => 0
+    [CONTACT_ID] => 950
+    [QUOTE_ID] => 
+    [BEGINDATE] => 2025-02-11T03:00:00+03:00
+    [CLOSEDATE] => 2025-02-18T03:00:00+03:00
+    [ASSIGNED_BY_ID] => 14
+    [CREATED_BY_ID] => 1
+    [MODIFY_BY_ID] => 14
+    [DATE_CREATE] => 2025-02-11T14:26:33+03:00
+    [DATE_MODIFY] => 2025-02-18T12:45:33+03:00
+    [OPENED] => N
+    [CLOSED] => N
+    [COMMENTS] => [p]
+Дмитрий Тарлыков
+
+Сумма долга: более 800 тысяч (потребительский кредит один)
+Просрочки: с 2021 года
+Боль: всё арестовали приставы забрали автомобиль. После болезни 
+Ежемесячный платёж: 16 тысяч, могла платить, т.к была хорошая работа
+Имущество и брак: ничего вообще, живёт у знакомых
+Залоговые кредиты: нет под залогом
+Сделки за последние 3 года: нет
+Работа (доход): нет 
+0011
+[/p]
+    [ADDITIONAL_INFO] => 
+    [LOCATION_ID] => 
+    [CATEGORY_ID] => 0
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [IS_RECURRING] => N
+    [IS_RETURN_CUSTOMER] => N
+    [IS_REPEATED_APPROACH] => N
+    [SOURCE_ID] => UC_WBH5YJ
+    [SOURCE_DESCRIPTION] => 
+    [ORIGINATOR_ID] => 
+    [ORIGIN_ID] => 
+    [MOVED_BY_ID] => 14
+    [MOVED_TIME] => 2025-02-18T12:40:30+03:00
+    [LAST_ACTIVITY_TIME] => 2025-02-11T14:26:33+03:00
+    [UTM_SOURCE] => 
+    [UTM_MEDIUM] => 
+    [UTM_CAMPAIGN] => 
+    [UTM_CONTENT] => 
+    [UTM_TERM] => 
+    [LAST_ACTIVITY_BY] => 1
+    [UF_CRM_1737357676436] => 
+    [UF_CRM_1737357696112] => 
+    [UF_CRM_1737357711196] => 
+    [UF_CRM_1737357723004] => 
+    [UF_CRM_1737357737540] => 
+    [UF_CRM_1737357752512] => 
+    [UF_CRM_1737358209973] => 
+    [UF_CRM_1737358296376] => 
+    [UF_CRM_1737358384607] => 
+    [UF_CRM_1737358501640] => 
+    [UF_CRM_1739456028409] => 
+    [UF_CRM_1739456948938] => 2025-02-18T16:00:00+03:00
+)
+948
+------------------------
+
+------------------------
+2025.02.18 13:05:52
+lead
+Array
+(
+    [ID] => 614
+    [TITLE] => Амирбаев Данис Борисович
+    [TYPE_ID] => SALE
+    [STAGE_ID] => FINAL_INVOICE
+    [PROBABILITY] => 
+    [CURRENCY_ID] => RUB
+    [OPPORTUNITY] => 0.00
+    [IS_MANUAL_OPPORTUNITY] => N
+    [TAX_VALUE] => 
+    [LEAD_ID] => 376
+    [COMPANY_ID] => 0
+    [CONTACT_ID] => 1034
+    [QUOTE_ID] => 
+    [BEGINDATE] => 2025-01-28T03:00:00+03:00
+    [CLOSEDATE] => 2025-02-05T03:00:00+03:00
+    [ASSIGNED_BY_ID] => 14
+    [CREATED_BY_ID] => 1
+    [MODIFY_BY_ID] => 14
+    [DATE_CREATE] => 2025-01-28T14:09:27+03:00
+    [DATE_MODIFY] => 2025-02-18T13:05:48+03:00
+    [OPENED] => N
+    [CLOSED] => N
+    [COMMENTS] => [p]
+Екатерина Чернова
+Сумма долга: 260 тысяч, + 150 тысяч (кредит, микрозаймы)
+[/p]
+[p]
+Просрочки: порядка года
+[/p]
+[p]
+Боль: было не до них, эпилепсия
+[/p]
+[p]
+Ежемесячный платёж: 5600 
+[/p]
+[p]
+Имущество и брак: нет
+[/p]
+[p]
+Залоговые кредиты: нет
+[/p]
+[p]
+Сделки за последние 3 года: нет
+[/p]
+[p]
+Работа (доход): 21000+1100 осталось 19 тысяч
+0011
+[/p]
+    [ADDITIONAL_INFO] => 
+    [LOCATION_ID] => 
+    [CATEGORY_ID] => 0
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [IS_RECURRING] => N
+    [IS_RETURN_CUSTOMER] => N
+    [IS_REPEATED_APPROACH] => N
+    [SOURCE_ID] => UC_WBH5YJ
+    [SOURCE_DESCRIPTION] => 
+    [ORIGINATOR_ID] => 
+    [ORIGIN_ID] => 
+    [MOVED_BY_ID] => 14
+    [MOVED_TIME] => 2025-02-18T13:03:32+03:00
+    [LAST_ACTIVITY_TIME] => 2025-01-28T14:09:27+03:00
+    [UTM_SOURCE] => 
+    [UTM_MEDIUM] => 
+    [UTM_CAMPAIGN] => 
+    [UTM_CONTENT] => 
+    [UTM_TERM] => 
+    [LAST_ACTIVITY_BY] => 1
+    [UF_CRM_1737357676436] => 
+    [UF_CRM_1737357696112] => 
+    [UF_CRM_1737357711196] => 
+    [UF_CRM_1737357723004] => 
+    [UF_CRM_1737357737540] => 
+    [UF_CRM_1737357752512] => 
+    [UF_CRM_1737358209973] => 
+    [UF_CRM_1737358296376] => 
+    [UF_CRM_1737358384607] => 
+    [UF_CRM_1737358501640] => 
+    [UF_CRM_1739456028409] => 
+    [UF_CRM_1739456948938] => 2025-02-19T09:00:00+03:00
+)
+614
+------------------------
+
+------------------------
+2025.02.18 13:44:44
+lead
+Array
+(
+    [ID] => 828
+    [TITLE] => Виктория Игоревна
+    [TYPE_ID] => SALE
+    [STAGE_ID] => FINAL_INVOICE
+    [PROBABILITY] => 
+    [CURRENCY_ID] => RUB
+    [OPPORTUNITY] => 0.00
+    [IS_MANUAL_OPPORTUNITY] => N
+    [TAX_VALUE] => 
+    [LEAD_ID] => 570
+    [COMPANY_ID] => 0
+    [CONTACT_ID] => 830
+    [QUOTE_ID] => 
+    [BEGINDATE] => 2025-02-06T03:00:00+03:00
+    [CLOSEDATE] => 2025-02-13T03:00:00+03:00
+    [ASSIGNED_BY_ID] => 14
+    [CREATED_BY_ID] => 1
+    [MODIFY_BY_ID] => 14
+    [DATE_CREATE] => 2025-02-06T10:50:57+03:00
+    [DATE_MODIFY] => 2025-02-18T13:44:39+03:00
+    [OPENED] => N
+    [CLOSED] => N
+    [COMMENTS] => [p]
+Екатерина Чернова 
+
+Томская область Северск. 
+Сумма долга: прядка 1 миллиона (кредиты, кредитки, ЖКХ, налоги, 30 тысяч по алиментам)
+[/p]
+[p]
+Просрочки: 21 год, март месяц
+[/p]
+[p]
+Боль: было 2 квартиры, 1 продали, оплатили, остался около миллиона. 
+[/p]
+[p]
+Ежемесячный платёж: 18 тысяч платила в 21 году
+[/p]
+[p]
+Имущество и брак: 1 квартира
+[/p]
+[p]
+Залоговые кредиты: нет
+[/p]
+[p]
+Сделки за последние 3 года: нет
+[/p]
+[p]
+Работа (доход): нет, хочет устроиться по суду
+
+0012
+[/p]
+    [ADDITIONAL_INFO] => 
+    [LOCATION_ID] => 
+    [CATEGORY_ID] => 0
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [IS_RECURRING] => N
+    [IS_RETURN_CUSTOMER] => N
+    [IS_REPEATED_APPROACH] => N
+    [SOURCE_ID] => UC_WBH5YJ
+    [SOURCE_DESCRIPTION] => 
+    [ORIGINATOR_ID] => 
+    [ORIGIN_ID] => 
+    [MOVED_BY_ID] => 14
+    [MOVED_TIME] => 2025-02-18T13:43:42+03:00
+    [LAST_ACTIVITY_TIME] => 2025-02-06T10:50:57+03:00
+    [UTM_SOURCE] => 
+    [UTM_MEDIUM] => 
+    [UTM_CAMPAIGN] => 
+    [UTM_CONTENT] => 
+    [UTM_TERM] => 
+    [LAST_ACTIVITY_BY] => 1
+    [UF_CRM_1737357676436] => 
+    [UF_CRM_1737357696112] => 
+    [UF_CRM_1737357711196] => 
+    [UF_CRM_1737357723004] => 
+    [UF_CRM_1737357737540] => 
+    [UF_CRM_1737357752512] => 
+    [UF_CRM_1737358209973] => 
+    [UF_CRM_1737358296376] => 
+    [UF_CRM_1737358384607] => 
+    [UF_CRM_1737358501640] => 
+    [UF_CRM_1739456028409] => 
+    [UF_CRM_1739456948938] => 2025-02-19T12:00:00+03:00
+)
+828
+------------------------
+
+------------------------
+2025.02.18 14:01:50
+lead
+Array
+(
+    [ID] => 1044
+    [TITLE] => Магомедов Арсен Ражабович
+    [TYPE_ID] => SALE
+    [STAGE_ID] => FINAL_INVOICE
+    [PROBABILITY] => 
+    [CURRENCY_ID] => RUB
+    [OPPORTUNITY] => 0.00
+    [IS_MANUAL_OPPORTUNITY] => N
+    [TAX_VALUE] => 
+    [LEAD_ID] => 738
+    [COMPANY_ID] => 0
+    [CONTACT_ID] => 1036
+    [QUOTE_ID] => 
+    [BEGINDATE] => 2025-02-18T03:00:00+03:00
+    [CLOSEDATE] => 2025-02-25T03:00:00+03:00
+    [ASSIGNED_BY_ID] => 14
+    [CREATED_BY_ID] => 14
+    [MODIFY_BY_ID] => 14
+    [DATE_CREATE] => 2025-02-18T14:01:41+03:00
+    [DATE_MODIFY] => 2025-02-18T14:01:47+03:00
+    [OPENED] => N
+    [CLOSED] => N
+    [COMMENTS] => [p]
+Анастасия Верова
+Сумма долга: 400 тысяч (кредиты)
+Просрочки: 2 года
+Боль: раньше картой пользовался, ограничения, хчет избавиться от долгов и т.п
+Ежемесячный платёж: не знает
+Имущество и брак: машина, приора, около 300. Готов рассмотреть варианты, что бы с ней расстаться, если это будет ему выгодно
+Залоговые кредиты: нет
+Сделки за последние 3 года: нет
+Работа (доход): не работает 
+[/p]
+    [ADDITIONAL_INFO] => 
+    [LOCATION_ID] => 
+    [CATEGORY_ID] => 0
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [IS_RECURRING] => N
+    [IS_RETURN_CUSTOMER] => N
+    [IS_REPEATED_APPROACH] => N
+    [SOURCE_ID] => UC_WBH5YJ
+    [SOURCE_DESCRIPTION] => 
+    [ORIGINATOR_ID] => 
+    [ORIGIN_ID] => 
+    [MOVED_BY_ID] => 14
+    [MOVED_TIME] => 2025-02-18T14:01:47+03:00
+    [LAST_ACTIVITY_TIME] => 2025-02-18T14:01:41+03:00
+    [UTM_SOURCE] => 
+    [UTM_MEDIUM] => 
+    [UTM_CAMPAIGN] => 
+    [UTM_CONTENT] => 
+    [UTM_TERM] => 
+    [LAST_ACTIVITY_BY] => 14
+    [UF_CRM_1737357676436] => 
+    [UF_CRM_1737357696112] => 
+    [UF_CRM_1737357711196] => 
+    [UF_CRM_1737357723004] => 
+    [UF_CRM_1737357737540] => 
+    [UF_CRM_1737357752512] => 
+    [UF_CRM_1737358209973] => 
+    [UF_CRM_1737358296376] => 
+    [UF_CRM_1737358384607] => 
+    [UF_CRM_1737358501640] => 
+    [UF_CRM_1739456028409] => 
+    [UF_CRM_1739456948938] => 2025-02-18T16:00:00+03:00
+)
+1044
+------------------------
+
+------------------------
+2025.02.18 14:10:34
+lead
+Array
+(
+    [ID] => 824
+    [TITLE] => Виктор Викторович
+    [TYPE_ID] => SALE
+    [STAGE_ID] => FINAL_INVOICE
+    [PROBABILITY] => 
+    [CURRENCY_ID] => RUB
+    [OPPORTUNITY] => 0.00
+    [IS_MANUAL_OPPORTUNITY] => N
+    [TAX_VALUE] => 
+    [LEAD_ID] => 566
+    [COMPANY_ID] => 0
+    [CONTACT_ID] => 826
+    [QUOTE_ID] => 
+    [BEGINDATE] => 2025-02-06T03:00:00+03:00
+    [CLOSEDATE] => 2025-02-13T03:00:00+03:00
+    [ASSIGNED_BY_ID] => 14
+    [CREATED_BY_ID] => 1
+    [MODIFY_BY_ID] => 14
+    [DATE_CREATE] => 2025-02-06T10:34:04+03:00
+    [DATE_MODIFY] => 2025-02-18T14:10:30+03:00
+    [OPENED] => N
+    [CLOSED] => N
+    [COMMENTS] => [p]
+Анастасия Верова
+Омская обл село Нагибино.
+Сумма долга: порядка 800 (кредиты потреб, микрозаймы)
+[/p]
+[p]
+Просрочки: в прошлом, 4 месяца
+[/p]
+[p]
+Боль: потерял работу, устроился на неофициально, вырезали скотину
+[/p]
+[p]
+Ежемесячный платёж: 56 тысяч
+[/p]
+[p]
+Имущество и брак: нет
+[/p]
+[p]
+Залоговые кредиты: нет
+[/p]
+[p]
+Сделки за последние 3 года: год назад всё переписал на тёщу, до кредитов, подстраховался, дарственная.
+[/p]
+[p]
+Работа (доход): не официально
+0012 - говорит, что переписал всё на тёщу ещё до задолженностей, но не уверен
+
+[/p]
+    [ADDITIONAL_INFO] => 
+    [LOCATION_ID] => 
+    [CATEGORY_ID] => 0
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [IS_RECURRING] => N
+    [IS_RETURN_CUSTOMER] => N
+    [IS_REPEATED_APPROACH] => N
+    [SOURCE_ID] => UC_WBH5YJ
+    [SOURCE_DESCRIPTION] => 
+    [ORIGINATOR_ID] => 
+    [ORIGIN_ID] => 
+    [MOVED_BY_ID] => 14
+    [MOVED_TIME] => 2025-02-18T14:10:09+03:00
+    [LAST_ACTIVITY_TIME] => 2025-02-06T10:34:04+03:00
+    [UTM_SOURCE] => 
+    [UTM_MEDIUM] => 
+    [UTM_CAMPAIGN] => 
+    [UTM_CONTENT] => 
+    [UTM_TERM] => 
+    [LAST_ACTIVITY_BY] => 1
+    [UF_CRM_1737357676436] => 
+    [UF_CRM_1737357696112] => 
+    [UF_CRM_1737357711196] => 
+    [UF_CRM_1737357723004] => 
+    [UF_CRM_1737357737540] => 
+    [UF_CRM_1737357752512] => 
+    [UF_CRM_1737358209973] => 
+    [UF_CRM_1737358296376] => 
+    [UF_CRM_1737358384607] => 
+    [UF_CRM_1737358501640] => 
+    [UF_CRM_1739456028409] => 
+    [UF_CRM_1739456948938] => 2025-02-18T17:00:00+03:00
+)
+824
+------------------------
+
+------------------------
+2025.02.18 15:59:07
+lead
+Array
+(
+    [ID] => 90
+    [TITLE] => Серпугов Виктор Иннокентьевич
+    [TYPE_ID] => SALE
+    [STAGE_ID] => FINAL_INVOICE
+    [PROBABILITY] => 
+    [CURRENCY_ID] => RUB
+    [OPPORTUNITY] => 0.00
+    [IS_MANUAL_OPPORTUNITY] => N
+    [TAX_VALUE] => 
+    [LEAD_ID] => 24
+    [COMPANY_ID] => 0
+    [CONTACT_ID] => 1038
+    [QUOTE_ID] => 
+    [BEGINDATE] => 2025-01-20T03:00:00+03:00
+    [CLOSEDATE] => 2025-01-27T03:00:00+03:00
+    [ASSIGNED_BY_ID] => 14
+    [CREATED_BY_ID] => 1
+    [MODIFY_BY_ID] => 14
+    [DATE_CREATE] => 2025-01-20T13:14:33+03:00
+    [DATE_MODIFY] => 2025-02-18T15:59:04+03:00
+    [OPENED] => N
+    [CLOSED] => N
+    [COMMENTS] => [p]
+Алексей Вязов
+
+Сумма долга: больше миллиона 
+[/p]
+[p]
+Просрочки: несколько дней 
+[/p]
+[p]
+Боль: не тянет финансовые нагрузки, очень тяжело, мотается по больницам, болит нога
+[/p]
+[p]
+Ежемесячный платёж: 50 тысяч 
+[/p]
+[p]
+Имущество и брак: земельный участок, дом - всё в одном
+[/p]
+[p]
+Залоговые кредиты: нет
+[/p]
+[p]
+Сделки за последние 3 года: нет
+[/p]
+[p]
+Работа (доход): 21 тысяча 
+0011
+[/p]
+    [ADDITIONAL_INFO] => 
+    [LOCATION_ID] => 
+    [CATEGORY_ID] => 0
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [IS_RECURRING] => N
+    [IS_RETURN_CUSTOMER] => N
+    [IS_REPEATED_APPROACH] => N
+    [SOURCE_ID] => UC_WBH5YJ
+    [SOURCE_DESCRIPTION] => 
+    [ORIGINATOR_ID] => 
+    [ORIGIN_ID] => 
+    [MOVED_BY_ID] => 14
+    [MOVED_TIME] => 2025-02-18T15:56:39+03:00
+    [LAST_ACTIVITY_TIME] => 2025-01-20T13:14:33+03:00
+    [UTM_SOURCE] => 
+    [UTM_MEDIUM] => 
+    [UTM_CAMPAIGN] => 
+    [UTM_CONTENT] => 
+    [UTM_TERM] => 
+    [LAST_ACTIVITY_BY] => 1
+    [UF_CRM_1737357676436] => 
+    [UF_CRM_1737357696112] => 
+    [UF_CRM_1737357711196] => 
+    [UF_CRM_1737357723004] => 
+    [UF_CRM_1737357737540] => 
+    [UF_CRM_1737357752512] => 
+    [UF_CRM_1737358209973] => 
+    [UF_CRM_1737358296376] => 
+    [UF_CRM_1737358384607] => 
+    [UF_CRM_1737358501640] => 
+    [UF_CRM_1739456028409] => 
+    [UF_CRM_1739456948938] => 2025-02-19T11:00:00+03:00
+)
+90
+------------------------
+
+------------------------
+2025.02.18 16:01:23
+lead
+Array
+(
+    [ID] => 90
+    [TITLE] => Серпугов Виктор Иннокентьевич
+    [TYPE_ID] => SALE
+    [STAGE_ID] => FINAL_INVOICE
+    [PROBABILITY] => 
+    [CURRENCY_ID] => RUB
+    [OPPORTUNITY] => 0.00
+    [IS_MANUAL_OPPORTUNITY] => N
+    [TAX_VALUE] => 
+    [LEAD_ID] => 24
+    [COMPANY_ID] => 0
+    [CONTACT_ID] => 1040
+    [QUOTE_ID] => 
+    [BEGINDATE] => 2025-01-20T03:00:00+03:00
+    [CLOSEDATE] => 2025-01-27T03:00:00+03:00
+    [ASSIGNED_BY_ID] => 14
+    [CREATED_BY_ID] => 1
+    [MODIFY_BY_ID] => 14
+    [DATE_CREATE] => 2025-01-20T13:14:33+03:00
+    [DATE_MODIFY] => 2025-02-18T16:01:20+03:00
+    [OPENED] => N
+    [CLOSED] => N
+    [COMMENTS] => [p]
+Алексей Вязов
+
+Сумма долга: больше миллиона 
+[/p]
+[p]
+Просрочки: несколько дней 
+[/p]
+[p]
+Боль: не тянет финансовые нагрузки, очень тяжело, мотается по больницам, болит нога
+[/p]
+[p]
+Ежемесячный платёж: 50 тысяч 
+[/p]
+[p]
+Имущество и брак: земельный участок, дом - всё в одном
+[/p]
+[p]
+Залоговые кредиты: нет
+[/p]
+[p]
+Сделки за последние 3 года: нет
+[/p]
+[p]
+Работа (доход): 21 тысяча 
+0011
+[/p]
+    [ADDITIONAL_INFO] => 
+    [LOCATION_ID] => 
+    [CATEGORY_ID] => 0
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [IS_RECURRING] => N
+    [IS_RETURN_CUSTOMER] => N
+    [IS_REPEATED_APPROACH] => N
+    [SOURCE_ID] => UC_WBH5YJ
+    [SOURCE_DESCRIPTION] => 
+    [ORIGINATOR_ID] => 
+    [ORIGIN_ID] => 
+    [MOVED_BY_ID] => 14
+    [MOVED_TIME] => 2025-02-18T16:01:20+03:00
+    [LAST_ACTIVITY_TIME] => 2025-01-20T13:14:33+03:00
+    [UTM_SOURCE] => 
+    [UTM_MEDIUM] => 
+    [UTM_CAMPAIGN] => 
+    [UTM_CONTENT] => 
+    [UTM_TERM] => 
+    [LAST_ACTIVITY_BY] => 1
+    [UF_CRM_1737357676436] => 
+    [UF_CRM_1737357696112] => 
+    [UF_CRM_1737357711196] => 
+    [UF_CRM_1737357723004] => 
+    [UF_CRM_1737357737540] => 
+    [UF_CRM_1737357752512] => 
+    [UF_CRM_1737358209973] => 
+    [UF_CRM_1737358296376] => 
+    [UF_CRM_1737358384607] => 
+    [UF_CRM_1737358501640] => 
+    [UF_CRM_1739456028409] => 
+    [UF_CRM_1739456948938] => 2025-02-19T11:00:00+03:00
+)
+90
+------------------------
+
+------------------------
+2025.02.18 16:51:06
+lead
+Array
+(
+    [ID] => 984
+    [TITLE] => Валентина Борисовна запись на 17.02 (воронеж)
+    [TYPE_ID] => SALE
+    [STAGE_ID] => FINAL_INVOICE
+    [PROBABILITY] => 
+    [CURRENCY_ID] => RUB
+    [OPPORTUNITY] => 0.00
+    [IS_MANUAL_OPPORTUNITY] => N
+    [TAX_VALUE] => 
+    [LEAD_ID] => 676
+    [COMPANY_ID] => 0
+    [CONTACT_ID] => 986
+    [QUOTE_ID] => 
+    [BEGINDATE] => 2025-02-13T03:00:00+03:00
+    [CLOSEDATE] => 2025-02-20T03:00:00+03:00
+    [ASSIGNED_BY_ID] => 24
+    [CREATED_BY_ID] => 1
+    [MODIFY_BY_ID] => 24
+    [DATE_CREATE] => 2025-02-13T09:01:15+03:00
+    [DATE_MODIFY] => 2025-02-18T16:51:04+03:00
+    [OPENED] => N
+    [CLOSED] => N
+    [COMMENTS] => [p]
+Анастасия Верова
+0011
+долг 330т
+2 кредита (альфабанк кредит сбер) 
+просрочки: с января 2025
+причина: помимо пенсии был ещё доп. доход, его не стало, трудно оплачивать
+еп: 24т 
+даты еп: 15.02
+залог: нет
+доход: пенсия 25т
+имущество: только частный дом
+за 3 года сделки: была продажа авто и квартиры в счёт погашения долгов. Расписки есть и договора (брала у физ.лиц в долг под расписку)
+ в 2024 январь продала авто 600т ( 300т на погашение долга под расписку, остальные 300т без расписки)
+июнь 2024г. продажа 1 комнатная квартира 1 млн 600 т руб, чтобы оплатить долги. Есть договора и расписка
+в другие организации: разговаривала по тел, но всё останавливалось только на тел
+
+[/p]
+    [ADDITIONAL_INFO] => 
+    [LOCATION_ID] => 
+    [CATEGORY_ID] => 0
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [IS_RECURRING] => N
+    [IS_RETURN_CUSTOMER] => N
+    [IS_REPEATED_APPROACH] => N
+    [SOURCE_ID] => UC_WBH5YJ
+    [SOURCE_DESCRIPTION] => 
+    [ORIGINATOR_ID] => 
+    [ORIGIN_ID] => 
+    [MOVED_BY_ID] => 24
+    [MOVED_TIME] => 2025-02-18T12:27:59+03:00
+    [LAST_ACTIVITY_TIME] => 2025-02-13T09:01:15+03:00
+    [UTM_SOURCE] => 
+    [UTM_MEDIUM] => 
+    [UTM_CAMPAIGN] => 
+    [UTM_CONTENT] => 
+    [UTM_TERM] => 
+    [LAST_ACTIVITY_BY] => 1
+    [UF_CRM_1737357676436] => 
+    [UF_CRM_1737357696112] => 
+    [UF_CRM_1737357711196] => 
+    [UF_CRM_1737357723004] => 
+    [UF_CRM_1737357737540] => 
+    [UF_CRM_1737357752512] => 
+    [UF_CRM_1737358209973] => 
+    [UF_CRM_1737358296376] => 
+    [UF_CRM_1737358384607] => 
+    [UF_CRM_1737358501640] => 
+    [UF_CRM_1739456028409] => 
+    [UF_CRM_1739456948938] => 2025-02-18T15:00:00+03:00
+)
+984
+------------------------
+
+------------------------
+2025.02.18 16:58:46
+lead
+Array
+(
+    [ID] => 984
+    [TITLE] => Валентина Борисовна запись на 17.02 (воронеж)
+    [TYPE_ID] => SALE
+    [STAGE_ID] => FINAL_INVOICE
+    [PROBABILITY] => 
+    [CURRENCY_ID] => RUB
+    [OPPORTUNITY] => 0.00
+    [IS_MANUAL_OPPORTUNITY] => N
+    [TAX_VALUE] => 
+    [LEAD_ID] => 676
+    [COMPANY_ID] => 0
+    [CONTACT_ID] => 986
+    [QUOTE_ID] => 
+    [BEGINDATE] => 2025-02-13T03:00:00+03:00
+    [CLOSEDATE] => 2025-02-20T03:00:00+03:00
+    [ASSIGNED_BY_ID] => 24
+    [CREATED_BY_ID] => 1
+    [MODIFY_BY_ID] => 24
+    [DATE_CREATE] => 2025-02-13T09:01:15+03:00
+    [DATE_MODIFY] => 2025-02-18T16:58:43+03:00
+    [OPENED] => N
+    [CLOSED] => N
+    [COMMENTS] => [p]
+Дмитрий Тарлыков
+0011
+долг 330т
+2 кредита (альфабанк кредит сбер) 
+просрочки: с января 2025
+причина: помимо пенсии был ещё доп. доход, его не стало, трудно оплачивать
+еп: 24т 
+даты еп: 15.02
+залог: нет
+доход: пенсия 25т
+имущество: только частный дом
+за 3 года сделки: была продажа авто и квартиры в счёт погашения долгов. Расписки есть и договора (брала у физ.лиц в долг под расписку)
+ в 2024 январь продала авто 600т ( 300т на погашение долга под расписку, остальные 300т без расписки)
+июнь 2024г. продажа 1 комнатная квартира 1 млн 600 т руб, чтобы оплатить долги. Есть договора и расписка
+в другие организации: разговаривала по тел, но всё останавливалось только на тел
+
+[/p]
+    [ADDITIONAL_INFO] => 
+    [LOCATION_ID] => 
+    [CATEGORY_ID] => 0
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [IS_RECURRING] => N
+    [IS_RETURN_CUSTOMER] => N
+    [IS_REPEATED_APPROACH] => N
+    [SOURCE_ID] => UC_WBH5YJ
+    [SOURCE_DESCRIPTION] => 
+    [ORIGINATOR_ID] => 
+    [ORIGIN_ID] => 
+    [MOVED_BY_ID] => 24
+    [MOVED_TIME] => 2025-02-18T16:58:43+03:00
+    [LAST_ACTIVITY_TIME] => 2025-02-13T09:01:15+03:00
+    [UTM_SOURCE] => 
+    [UTM_MEDIUM] => 
+    [UTM_CAMPAIGN] => 
+    [UTM_CONTENT] => 
+    [UTM_TERM] => 
+    [LAST_ACTIVITY_BY] => 1
+    [UF_CRM_1737357676436] => 
+    [UF_CRM_1737357696112] => 
+    [UF_CRM_1737357711196] => 
+    [UF_CRM_1737357723004] => 
+    [UF_CRM_1737357737540] => 
+    [UF_CRM_1737357752512] => 
+    [UF_CRM_1737358209973] => 
+    [UF_CRM_1737358296376] => 
+    [UF_CRM_1737358384607] => 
+    [UF_CRM_1737358501640] => 
+    [UF_CRM_1739456028409] => 
+    [UF_CRM_1739456948938] => 2025-02-19T08:00:00+03:00
+)
+984
+------------------------
+
+------------------------
+2025.02.19 10:14:28
+lead
+Array
+(
+    [ID] => 1046
+    [TITLE] => Владимир запись на завтра на 19.02 в 10:00 по мск (14:00 томск)
+    [TYPE_ID] => SALE
+    [STAGE_ID] => FINAL_INVOICE
+    [PROBABILITY] => 
+    [CURRENCY_ID] => RUB
+    [OPPORTUNITY] => 0.00
+    [IS_MANUAL_OPPORTUNITY] => N
+    [TAX_VALUE] => 
+    [LEAD_ID] => 724
+    [COMPANY_ID] => 0
+    [CONTACT_ID] => 1042
+    [QUOTE_ID] => 
+    [BEGINDATE] => 2025-02-18T03:00:00+03:00
+    [CLOSEDATE] => 2025-02-25T03:00:00+03:00
+    [ASSIGNED_BY_ID] => 24
+    [CREATED_BY_ID] => 24
+    [MODIFY_BY_ID] => 24
+    [DATE_CREATE] => 2025-02-18T16:29:51+03:00
+    [DATE_MODIFY] => 2025-02-19T10:14:24+03:00
+    [OPENED] => N
+    [CLOSED] => N
+    [COMMENTS] => [p]
+Алексей Вязов
+0011
+долг: 1 млн 140т 
+что именно: кредиты (погасил всё, осталось 30т, не сказали, ждали когда долг вырастит)
+как давно не платите: 7 лет назад
+причина: банк обманул
+еп: не помнит
+залог: нет
+доход: пенсия по возрасту = 12т + соц. защита немного накидывает сверху
+имущество: жигули 4. 1986г. который не работает и вуаз которого даже не видел тоже не на ходу. Продать невозможно, старые, даже за 5т не берут
+семейное положение: офиц. брак (нет совместного имущества)
+сделки за 3 года: нет 
+почему сейчас. (боль): надо решать ситуацию
+другие организации: 3 года назад обращался 170т предлагали, тогда так и не рискнул. сейчас закон недавно новый вышел, как это он говорит. Понимает, что надо решать ситуацию и готов платить
+[/p]
+    [ADDITIONAL_INFO] => 
+    [LOCATION_ID] => 
+    [CATEGORY_ID] => 0
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [IS_RECURRING] => N
+    [IS_RETURN_CUSTOMER] => N
+    [IS_REPEATED_APPROACH] => N
+    [SOURCE_ID] => UC_WBH5YJ
+    [SOURCE_DESCRIPTION] => 
+    [ORIGINATOR_ID] => 
+    [ORIGIN_ID] => 
+    [MOVED_BY_ID] => 24
+    [MOVED_TIME] => 2025-02-18T16:30:04+03:00
+    [LAST_ACTIVITY_TIME] => 2025-02-18T16:29:51+03:00
+    [UTM_SOURCE] => 
+    [UTM_MEDIUM] => 
+    [UTM_CAMPAIGN] => 
+    [UTM_CONTENT] => 
+    [UTM_TERM] => 
+    [LAST_ACTIVITY_BY] => 24
+    [UF_CRM_1737357676436] => 
+    [UF_CRM_1737357696112] => 
+    [UF_CRM_1737357711196] => 
+    [UF_CRM_1737357723004] => 
+    [UF_CRM_1737357737540] => 
+    [UF_CRM_1737357752512] => 
+    [UF_CRM_1737358209973] => 
+    [UF_CRM_1737358296376] => 
+    [UF_CRM_1737358384607] => 
+    [UF_CRM_1737358501640] => 
+    [UF_CRM_1739456028409] => 
+    [UF_CRM_1739456948938] => 2025-02-19T10:00:00+03:00
+)
+1046
+------------------------
+
+------------------------
+2025.02.19 10:15:14
+lead
+Array
+(
+    [ID] => 1046
+    [TITLE] => Владимир запись на завтра на 19.02 в 10:00 по мск (14:00 томск)
+    [TYPE_ID] => SALE
+    [STAGE_ID] => FINAL_INVOICE
+    [PROBABILITY] => 
+    [CURRENCY_ID] => RUB
+    [OPPORTUNITY] => 0.00
+    [IS_MANUAL_OPPORTUNITY] => N
+    [TAX_VALUE] => 
+    [LEAD_ID] => 724
+    [COMPANY_ID] => 0
+    [CONTACT_ID] => 1042
+    [QUOTE_ID] => 
+    [BEGINDATE] => 2025-02-18T03:00:00+03:00
+    [CLOSEDATE] => 2025-02-25T03:00:00+03:00
+    [ASSIGNED_BY_ID] => 24
+    [CREATED_BY_ID] => 24
+    [MODIFY_BY_ID] => 24
+    [DATE_CREATE] => 2025-02-18T16:29:51+03:00
+    [DATE_MODIFY] => 2025-02-19T10:15:11+03:00
+    [OPENED] => N
+    [CLOSED] => N
+    [COMMENTS] => [p]
+фио клиента: Владимир Филиппов Викторович
+Дмитрий Тарлыков
+0011
+долг: 1 млн 140т 
+что именно: кредиты (погасил всё, осталось 30т, не сказали, ждали когда долг вырастит)
+как давно не платите: 7 лет назад
+причина: банк обманул
+еп: не помнит
+залог: нет
+доход: пенсия по возрасту = 12т + соц. защита немного накидывает сверху
+имущество: жигули 4. 1986г. который не работает и вуаз которого даже не видел тоже не на ходу. Продать невозможно, старые, даже за 5т не берут
+семейное положение: офиц. брак (нет совместного имущества)
+сделки за 3 года: нет 
+почему сейчас. (боль): надо решать ситуацию
+другие организации: 3 года назад обращался 170т предлагали, тогда так и не рискнул. сейчас закон недавно новый вышел, как это он говорит. Понимает, что надо решать ситуацию и готов платить
+[/p]
+    [ADDITIONAL_INFO] => 
+    [LOCATION_ID] => 
+    [CATEGORY_ID] => 0
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [IS_RECURRING] => N
+    [IS_RETURN_CUSTOMER] => N
+    [IS_REPEATED_APPROACH] => N
+    [SOURCE_ID] => UC_WBH5YJ
+    [SOURCE_DESCRIPTION] => 
+    [ORIGINATOR_ID] => 
+    [ORIGIN_ID] => 
+    [MOVED_BY_ID] => 24
+    [MOVED_TIME] => 2025-02-18T16:30:04+03:00
+    [LAST_ACTIVITY_TIME] => 2025-02-18T16:29:51+03:00
+    [UTM_SOURCE] => 
+    [UTM_MEDIUM] => 
+    [UTM_CAMPAIGN] => 
+    [UTM_CONTENT] => 
+    [UTM_TERM] => 
+    [LAST_ACTIVITY_BY] => 24
+    [UF_CRM_1737357676436] => 
+    [UF_CRM_1737357696112] => 
+    [UF_CRM_1737357711196] => 
+    [UF_CRM_1737357723004] => 
+    [UF_CRM_1737357737540] => 
+    [UF_CRM_1737357752512] => 
+    [UF_CRM_1737358209973] => 
+    [UF_CRM_1737358296376] => 
+    [UF_CRM_1737358384607] => 
+    [UF_CRM_1737358501640] => 
+    [UF_CRM_1739456028409] => 
+    [UF_CRM_1739456948938] => 2025-02-19T10:00:00+03:00
+)
+1046
+------------------------
+
+------------------------
+2025.02.19 10:15:31
+lead
+Array
+(
+    [ID] => 1046
+    [TITLE] => Владимир запись на завтра на 19.02 в 10:00 по мск (14:00 томск)
+    [TYPE_ID] => SALE
+    [STAGE_ID] => FINAL_INVOICE
+    [PROBABILITY] => 
+    [CURRENCY_ID] => RUB
+    [OPPORTUNITY] => 0.00
+    [IS_MANUAL_OPPORTUNITY] => N
+    [TAX_VALUE] => 
+    [LEAD_ID] => 724
+    [COMPANY_ID] => 0
+    [CONTACT_ID] => 1042
+    [QUOTE_ID] => 
+    [BEGINDATE] => 2025-02-18T03:00:00+03:00
+    [CLOSEDATE] => 2025-02-25T03:00:00+03:00
+    [ASSIGNED_BY_ID] => 24
+    [CREATED_BY_ID] => 24
+    [MODIFY_BY_ID] => 24
+    [DATE_CREATE] => 2025-02-18T16:29:51+03:00
+    [DATE_MODIFY] => 2025-02-19T10:15:27+03:00
+    [OPENED] => N
+    [CLOSED] => N
+    [COMMENTS] => [p]
+фио клиента: Владимир Филиппов Викторович
+Дмитрий Тарлыков
+0011
+долг: 1 млн 140т 
+что именно: кредиты (погасил всё, осталось 30т, не сказали, ждали когда долг вырастит)
+как давно не платите: 7 лет назад
+причина: банк обманул
+еп: не помнит
+залог: нет
+доход: пенсия по возрасту = 12т + соц. защита немного накидывает сверху
+имущество: жигули 4. 1986г. который не работает и вуаз которого даже не видел тоже не на ходу. Продать невозможно, старые, даже за 5т не берут
+семейное положение: офиц. брак (нет совместного имущества)
+сделки за 3 года: нет 
+почему сейчас. (боль): надо решать ситуацию
+другие организации: 3 года назад обращался 170т предлагали, тогда так и не рискнул. сейчас закон недавно новый вышел, как это он говорит. Понимает, что надо решать ситуацию и готов платить
+[/p]
+    [ADDITIONAL_INFO] => 
+    [LOCATION_ID] => 
+    [CATEGORY_ID] => 0
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [IS_RECURRING] => N
+    [IS_RETURN_CUSTOMER] => N
+    [IS_REPEATED_APPROACH] => N
+    [SOURCE_ID] => UC_WBH5YJ
+    [SOURCE_DESCRIPTION] => 
+    [ORIGINATOR_ID] => 
+    [ORIGIN_ID] => 
+    [MOVED_BY_ID] => 24
+    [MOVED_TIME] => 2025-02-18T16:30:04+03:00
+    [LAST_ACTIVITY_TIME] => 2025-02-18T16:29:51+03:00
+    [UTM_SOURCE] => 
+    [UTM_MEDIUM] => 
+    [UTM_CAMPAIGN] => 
+    [UTM_CONTENT] => 
+    [UTM_TERM] => 
+    [LAST_ACTIVITY_BY] => 24
+    [UF_CRM_1737357676436] => 
+    [UF_CRM_1737357696112] => 
+    [UF_CRM_1737357711196] => 
+    [UF_CRM_1737357723004] => 
+    [UF_CRM_1737357737540] => 
+    [UF_CRM_1737357752512] => 
+    [UF_CRM_1737358209973] => 
+    [UF_CRM_1737358296376] => 
+    [UF_CRM_1737358384607] => 
+    [UF_CRM_1737358501640] => 
+    [UF_CRM_1739456028409] => 
+    [UF_CRM_1739456948938] => 2025-02-19T11:00:00+03:00
+)
+1046
+------------------------
+
+------------------------
+2025.02.19 10:55:39
+lead
+Array
+(
+    [ID] => 998
+    [TITLE] => Ольга (ВТОРИЧКА КРАСНОЯРСК) НА 14.02 ОНЛАЙН-ДИСТАНТ на понедельник
+    [TYPE_ID] => SALE
+    [STAGE_ID] => FINAL_INVOICE
+    [PROBABILITY] => 
+    [CURRENCY_ID] => RUB
+    [OPPORTUNITY] => 0.00
+    [IS_MANUAL_OPPORTUNITY] => N
+    [TAX_VALUE] => 0.00
+    [LEAD_ID] => 
+    [COMPANY_ID] => 0
+    [CONTACT_ID] => 1000
+    [QUOTE_ID] => 
+    [BEGINDATE] => 2025-02-13T03:00:00+03:00
+    [CLOSEDATE] => 2025-02-20T03:00:00+03:00
+    [ASSIGNED_BY_ID] => 24
+    [CREATED_BY_ID] => 1
+    [MODIFY_BY_ID] => 24
+    [DATE_CREATE] => 2025-02-13T16:25:13+03:00
+    [DATE_MODIFY] => 2025-02-19T10:55:36+03:00
+    [OPENED] => Y
+    [CLOSED] => N
+    [COMMENTS] => [p]
+фио клиента: Холоденко Ольга Васильевна
+Анастасия Верова
+0011
+долг: 402 600т 
+что именно: 1 микрозайм, кх халва восточный, тиньоф банк (5 лет)
+срок: 2 года
+причина: муж умер
+еп: не помнит
+доход: пенсия 23т (27т пенсия, половину приставы убрали, далее 7т высчитывают) 
+залог: нет 
+имущество: нет. 
+семейное положение: вдова
+сделки за 3 года: авто 170т продала в том году 2024 (170т руб)
+почему сейчас. (боль):
+другие организации: в красноярске уже связывалась с ней, предлагали. Она сейчас сравнивает.
+[/p]
+    [ADDITIONAL_INFO] => 
+    [LOCATION_ID] => 
+    [CATEGORY_ID] => 0
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [IS_RECURRING] => N
+    [IS_RETURN_CUSTOMER] => N
+    [IS_REPEATED_APPROACH] => N
+    [SOURCE_ID] => UC_WBH5YJ
+    [SOURCE_DESCRIPTION] => 
+    [ORIGINATOR_ID] => 
+    [ORIGIN_ID] => 
+    [MOVED_BY_ID] => 24
+    [MOVED_TIME] => 2025-02-19T10:55:36+03:00
+    [LAST_ACTIVITY_TIME] => 2025-02-19T10:40:00+03:00
+    [UTM_SOURCE] => 
+    [UTM_MEDIUM] => 
+    [UTM_CAMPAIGN] => 
+    [UTM_CONTENT] => 
+    [UTM_TERM] => 
+    [LAST_ACTIVITY_BY] => 24
+    [UF_CRM_1737357676436] => 
+    [UF_CRM_1737357696112] => 
+    [UF_CRM_1737357711196] => 
+    [UF_CRM_1737357723004] => 
+    [UF_CRM_1737357737540] => 
+    [UF_CRM_1737357752512] => 
+    [UF_CRM_1737358209973] => 
+    [UF_CRM_1737358296376] => 
+    [UF_CRM_1737358384607] => 
+    [UF_CRM_1737358501640] => 
+    [UF_CRM_1739456028409] => 
+    [UF_CRM_1739456948938] => 2025-02-19T13:00:00+03:00
+)
+998
+------------------------
+
+------------------------
+2025.02.19 12:09:10
+lead
+Array
+(
+    [ID] => 1048
+    [TITLE] => Ольга
+    [TYPE_ID] => SALE
+    [STAGE_ID] => FINAL_INVOICE
+    [PROBABILITY] => 
+    [CURRENCY_ID] => RUB
+    [OPPORTUNITY] => 0.00
+    [IS_MANUAL_OPPORTUNITY] => N
+    [TAX_VALUE] => 
+    [LEAD_ID] => 764
+    [COMPANY_ID] => 0
+    [CONTACT_ID] => 1044
+    [QUOTE_ID] => 
+    [BEGINDATE] => 2025-02-19T03:00:00+03:00
+    [CLOSEDATE] => 2025-02-26T03:00:00+03:00
+    [ASSIGNED_BY_ID] => 24
+    [CREATED_BY_ID] => 24
+    [MODIFY_BY_ID] => 24
+    [DATE_CREATE] => 2025-02-19T12:08:10+03:00
+    [DATE_MODIFY] => 2025-02-19T12:09:07+03:00
+    [OPENED] => N
+    [CLOSED] => N
+    [COMMENTS] => [p]
+Алексей Вязов
+0011
+долг: более 300т
+что именно: микрозаймы
+как давно не платите: более пол года
+причина: мама умерла, похороны дорого обошлись.
+еп: там надо было сумму полностью выплачивать сразу
+залог: нет
+арест карт
+имущество: частный дом (только проспана в нём, не собственник). а так ничего нет.
+доход: детские пособия = 45т. семейное положение:3 ребёнка (несовершеннолетние). брак официальный (совместно нажитого имущества нет). брачный договор заключили с мужем
+сделки за 3 года: нет
+другие организации: ооо выход, ооо освободим, но с ними не общалась, т.к. надо в Рязань ехать.
+спросила про сумму в среднем, сказала от и до: от 120т и до 200т. Лояльная, закрыть можно (стиль общения - быстро, кратко и по факту отвечает)
+[/p]
+    [ADDITIONAL_INFO] => 
+    [LOCATION_ID] => 
+    [CATEGORY_ID] => 0
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [IS_RECURRING] => N
+    [IS_RETURN_CUSTOMER] => N
+    [IS_REPEATED_APPROACH] => N
+    [SOURCE_ID] => UC_WBH5YJ
+    [SOURCE_DESCRIPTION] => 
+    [ORIGINATOR_ID] => 
+    [ORIGIN_ID] => 
+    [MOVED_BY_ID] => 24
+    [MOVED_TIME] => 2025-02-19T12:09:07+03:00
+    [LAST_ACTIVITY_TIME] => 2025-02-19T12:08:10+03:00
+    [UTM_SOURCE] => 
+    [UTM_MEDIUM] => 
+    [UTM_CAMPAIGN] => 
+    [UTM_CONTENT] => 
+    [UTM_TERM] => 
+    [LAST_ACTIVITY_BY] => 24
+    [UF_CRM_1737357676436] => 
+    [UF_CRM_1737357696112] => 
+    [UF_CRM_1737357711196] => 
+    [UF_CRM_1737357723004] => 
+    [UF_CRM_1737357737540] => 
+    [UF_CRM_1737357752512] => 
+    [UF_CRM_1737358209973] => 
+    [UF_CRM_1737358296376] => 
+    [UF_CRM_1737358384607] => 
+    [UF_CRM_1737358501640] => 
+    [UF_CRM_1739456028409] => 
+    [UF_CRM_1739456948938] => 2025-02-20T11:00:00+03:00
+)
+1048
+------------------------
+
+------------------------
+2025.02.19 12:29:55
+lead
+Array
+(
+    [ID] => 1050
+    [TITLE] => тест
+    [TYPE_ID] => SALE
+    [STAGE_ID] => FINAL_INVOICE
+    [PROBABILITY] => 
+    [CURRENCY_ID] => RUB
+    [OPPORTUNITY] => 0.00
+    [IS_MANUAL_OPPORTUNITY] => N
+    [TAX_VALUE] => 
+    [LEAD_ID] => 770
+    [COMPANY_ID] => 0
+    [CONTACT_ID] => 1046
+    [QUOTE_ID] => 
+    [BEGINDATE] => 2025-02-19T03:00:00+03:00
+    [CLOSEDATE] => 2025-02-26T03:00:00+03:00
+    [ASSIGNED_BY_ID] => 1
+    [CREATED_BY_ID] => 1
+    [MODIFY_BY_ID] => 1
+    [DATE_CREATE] => 2025-02-19T12:28:55+03:00
+    [DATE_MODIFY] => 2025-02-19T12:29:52+03:00
+    [OPENED] => Y
+    [CLOSED] => N
+    [COMMENTS] => 
+    [ADDITIONAL_INFO] => 
+    [LOCATION_ID] => 
+    [CATEGORY_ID] => 0
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [IS_RECURRING] => N
+    [IS_RETURN_CUSTOMER] => N
+    [IS_REPEATED_APPROACH] => N
+    [SOURCE_ID] => UC_WBH5YJ
+    [SOURCE_DESCRIPTION] => 
+    [ORIGINATOR_ID] => 
+    [ORIGIN_ID] => 
+    [MOVED_BY_ID] => 1
+    [MOVED_TIME] => 2025-02-19T12:29:50+03:00
+    [LAST_ACTIVITY_TIME] => 2025-02-19T12:28:55+03:00
+    [UTM_SOURCE] => 
+    [UTM_MEDIUM] => 
+    [UTM_CAMPAIGN] => 
+    [UTM_CONTENT] => 
+    [UTM_TERM] => 
+    [LAST_ACTIVITY_BY] => 1
+    [UF_CRM_1737357676436] => 
+    [UF_CRM_1737357696112] => 
+    [UF_CRM_1737357711196] => 
+    [UF_CRM_1737357723004] => 
+    [UF_CRM_1737357737540] => 
+    [UF_CRM_1737357752512] => 
+    [UF_CRM_1737358209973] => 
+    [UF_CRM_1737358296376] => 
+    [UF_CRM_1737358384607] => 
+    [UF_CRM_1737358501640] => 
+    [UF_CRM_1739456028409] => 
+    [UF_CRM_1739456948938] => 2025-02-20T00:00:00+03:00
+)
+1050
+------------------------
+
+------------------------
+2025.02.19 12:45:26
+lead
+Array
+(
+    [ID] => 998
+    [TITLE] => Ольга (ВТОРИЧКА КРАСНОЯРСК) НА 14.02 ОНЛАЙН-ДИСТАНТ на понедельник
+    [TYPE_ID] => SALE
+    [STAGE_ID] => FINAL_INVOICE
+    [PROBABILITY] => 
+    [CURRENCY_ID] => RUB
+    [OPPORTUNITY] => 0.00
+    [IS_MANUAL_OPPORTUNITY] => N
+    [TAX_VALUE] => 0.00
+    [LEAD_ID] => 
+    [COMPANY_ID] => 0
+    [CONTACT_ID] => 1000
+    [QUOTE_ID] => 
+    [BEGINDATE] => 2025-02-13T03:00:00+03:00
+    [CLOSEDATE] => 2025-02-20T03:00:00+03:00
+    [ASSIGNED_BY_ID] => 24
+    [CREATED_BY_ID] => 1
+    [MODIFY_BY_ID] => 0
+    [DATE_CREATE] => 2025-02-13T16:25:13+03:00
+    [DATE_MODIFY] => 2025-02-19T12:45:23+03:00
+    [OPENED] => Y
+    [CLOSED] => N
+    [COMMENTS] => [p]
+фио клиента: Холоденко Ольга Васильевна
+Анастасия Верова
+0011
+долг: 402 600т 
+что именно: 1 микрозайм, кх халва восточный, тиньоф банк (5 лет)
+срок: 2 года
+причина: муж умер
+еп: не помнит
+доход: пенсия 23т (27т пенсия, половину приставы убрали, далее 7т высчитывают) 
+залог: нет 
+имущество: нет. 
+семейное положение: вдова
+сделки за 3 года: авто 170т продала в том году 2024 (170т руб)
+почему сейчас. (боль):
+другие организации: в красноярске уже связывалась с ней, предлагали. Она сейчас сравнивает.
+[/p]
+    [ADDITIONAL_INFO] => 
+    [LOCATION_ID] => 
+    [CATEGORY_ID] => 0
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [IS_RECURRING] => N
+    [IS_RETURN_CUSTOMER] => N
+    [IS_REPEATED_APPROACH] => N
+    [SOURCE_ID] => UC_WBH5YJ
+    [SOURCE_DESCRIPTION] => 
+    [ORIGINATOR_ID] => 
+    [ORIGIN_ID] => 
+    [MOVED_BY_ID] => 24
+    [MOVED_TIME] => 2025-02-19T10:55:36+03:00
+    [LAST_ACTIVITY_TIME] => 2025-02-19T12:45:00+03:00
+    [UTM_SOURCE] => 
+    [UTM_MEDIUM] => 
+    [UTM_CAMPAIGN] => 
+    [UTM_CONTENT] => 
+    [UTM_TERM] => 
+    [LAST_ACTIVITY_BY] => 24
+    [UF_CRM_1737357676436] => 
+    [UF_CRM_1737357696112] => 
+    [UF_CRM_1737357711196] => 
+    [UF_CRM_1737357723004] => 
+    [UF_CRM_1737357737540] => 
+    [UF_CRM_1737357752512] => 
+    [UF_CRM_1737358209973] => 
+    [UF_CRM_1737358296376] => 
+    [UF_CRM_1737358384607] => 
+    [UF_CRM_1737358501640] => 
+    [UF_CRM_1739456028409] => 
+    [UF_CRM_1739456948938] => 2025-02-19T13:00:00+03:00
+)
+998
+------------------------
+
+------------------------
+2025.02.19 12:50:21
+lead
+Array
+(
+    [ID] => 1052
+    [TITLE] => тест
+    [TYPE_ID] => SALE
+    [STAGE_ID] => FINAL_INVOICE
+    [PROBABILITY] => 
+    [CURRENCY_ID] => RUB
+    [OPPORTUNITY] => 0.00
+    [IS_MANUAL_OPPORTUNITY] => N
+    [TAX_VALUE] => 
+    [LEAD_ID] => 772
+    [COMPANY_ID] => 0
+    [CONTACT_ID] => 1048
+    [QUOTE_ID] => 
+    [BEGINDATE] => 2025-02-19T03:00:00+03:00
+    [CLOSEDATE] => 2025-02-26T03:00:00+03:00
+    [ASSIGNED_BY_ID] => 1
+    [CREATED_BY_ID] => 1
+    [MODIFY_BY_ID] => 1
+    [DATE_CREATE] => 2025-02-19T12:49:44+03:00
+    [DATE_MODIFY] => 2025-02-19T12:50:18+03:00
+    [OPENED] => Y
+    [CLOSED] => N
+    [COMMENTS] => 
+    [ADDITIONAL_INFO] => 
+    [LOCATION_ID] => 
+    [CATEGORY_ID] => 0
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [IS_RECURRING] => N
+    [IS_RETURN_CUSTOMER] => N
+    [IS_REPEATED_APPROACH] => N
+    [SOURCE_ID] => UC_WBH5YJ
+    [SOURCE_DESCRIPTION] => 
+    [ORIGINATOR_ID] => 
+    [ORIGIN_ID] => 
+    [MOVED_BY_ID] => 1
+    [MOVED_TIME] => 2025-02-19T12:50:18+03:00
+    [LAST_ACTIVITY_TIME] => 2025-02-19T12:49:44+03:00
+    [UTM_SOURCE] => 
+    [UTM_MEDIUM] => 
+    [UTM_CAMPAIGN] => 
+    [UTM_CONTENT] => 
+    [UTM_TERM] => 
+    [LAST_ACTIVITY_BY] => 1
+    [UF_CRM_1737357676436] => 
+    [UF_CRM_1737357696112] => 
+    [UF_CRM_1737357711196] => 
+    [UF_CRM_1737357723004] => 
+    [UF_CRM_1737357737540] => 
+    [UF_CRM_1737357752512] => 
+    [UF_CRM_1737358209973] => 
+    [UF_CRM_1737358296376] => 
+    [UF_CRM_1737358384607] => 
+    [UF_CRM_1737358501640] => 
+    [UF_CRM_1739456028409] => 
+    [UF_CRM_1739456948938] => 2025-02-19T00:00:00+03:00
+)
+1052
+------------------------
+
+------------------------
+2025.02.19 12:59:50
+lead
+Array
+(
+    [ID] => 998
+    [TITLE] => Ольга (ВТОРИЧКА КРАСНОЯРСК) НА 14.02 ОНЛАЙН-ДИСТАНТ на понедельник
+    [TYPE_ID] => SALE
+    [STAGE_ID] => FINAL_INVOICE
+    [PROBABILITY] => 
+    [CURRENCY_ID] => RUB
+    [OPPORTUNITY] => 0.00
+    [IS_MANUAL_OPPORTUNITY] => N
+    [TAX_VALUE] => 0.00
+    [LEAD_ID] => 
+    [COMPANY_ID] => 0
+    [CONTACT_ID] => 1000
+    [QUOTE_ID] => 
+    [BEGINDATE] => 2025-02-13T03:00:00+03:00
+    [CLOSEDATE] => 2025-02-20T03:00:00+03:00
+    [ASSIGNED_BY_ID] => 24
+    [CREATED_BY_ID] => 1
+    [MODIFY_BY_ID] => 0
+    [DATE_CREATE] => 2025-02-13T16:25:13+03:00
+    [DATE_MODIFY] => 2025-02-19T12:59:47+03:00
+    [OPENED] => Y
+    [CLOSED] => N
+    [COMMENTS] => [p]
+фио клиента: Холоденко Ольга Васильевна
+Анастасия Верова
+0011
+долг: 402 600т 
+что именно: 1 микрозайм, кх халва восточный, тиньоф банк (5 лет)
+срок: 2 года
+причина: муж умер
+еп: не помнит
+доход: пенсия 23т (27т пенсия, половину приставы убрали, далее 7т высчитывают) 
+залог: нет 
+имущество: нет. 
+семейное положение: вдова
+сделки за 3 года: авто 170т продала в том году 2024 (170т руб)
+почему сейчас. (боль):
+другие организации: в красноярске уже связывалась с ней, предлагали. Она сейчас сравнивает.
+[/p]
+    [ADDITIONAL_INFO] => 
+    [LOCATION_ID] => 
+    [CATEGORY_ID] => 0
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [IS_RECURRING] => N
+    [IS_RETURN_CUSTOMER] => N
+    [IS_REPEATED_APPROACH] => N
+    [SOURCE_ID] => UC_WBH5YJ
+    [SOURCE_DESCRIPTION] => 
+    [ORIGINATOR_ID] => 
+    [ORIGIN_ID] => 
+    [MOVED_BY_ID] => 24
+    [MOVED_TIME] => 2025-02-19T10:55:36+03:00
+    [LAST_ACTIVITY_TIME] => 2025-02-19T13:00:00+03:00
+    [UTM_SOURCE] => 
+    [UTM_MEDIUM] => 
+    [UTM_CAMPAIGN] => 
+    [UTM_CONTENT] => 
+    [UTM_TERM] => 
+    [LAST_ACTIVITY_BY] => 24
+    [UF_CRM_1737357676436] => 
+    [UF_CRM_1737357696112] => 
+    [UF_CRM_1737357711196] => 
+    [UF_CRM_1737357723004] => 
+    [UF_CRM_1737357737540] => 
+    [UF_CRM_1737357752512] => 
+    [UF_CRM_1737358209973] => 
+    [UF_CRM_1737358296376] => 
+    [UF_CRM_1737358384607] => 
+    [UF_CRM_1737358501640] => 
+    [UF_CRM_1739456028409] => 
+    [UF_CRM_1739456948938] => 2025-02-19T13:00:00+03:00
+)
+998
+------------------------
+
+------------------------
+2025.02.19 13:05:50
+lead
+Array
+(
+    [ID] => 1048
+    [TITLE] => Ольга (Он-запись на 20.02 на 11 по МСК)
+    [TYPE_ID] => SALE
+    [STAGE_ID] => FINAL_INVOICE
+    [PROBABILITY] => 
+    [CURRENCY_ID] => RUB
+    [OPPORTUNITY] => 0.00
+    [IS_MANUAL_OPPORTUNITY] => N
+    [TAX_VALUE] => 
+    [LEAD_ID] => 764
+    [COMPANY_ID] => 0
+    [CONTACT_ID] => 1044
+    [QUOTE_ID] => 
+    [BEGINDATE] => 2025-02-19T03:00:00+03:00
+    [CLOSEDATE] => 2025-02-26T03:00:00+03:00
+    [ASSIGNED_BY_ID] => 24
+    [CREATED_BY_ID] => 24
+    [MODIFY_BY_ID] => 24
+    [DATE_CREATE] => 2025-02-19T12:08:10+03:00
+    [DATE_MODIFY] => 2025-02-19T13:05:47+03:00
+    [OPENED] => N
+    [CLOSED] => N
+    [COMMENTS] => [p]
+Алексей Вязов
+0011
+долг: более 300т
+что именно: микрозаймы
+как давно не платите: более пол года
+причина: мама умерла, похороны дорого обошлись.
+еп: там надо было сумму полностью выплачивать сразу
+залог: нет
+арест карт
+имущество: частный дом (только проспана в нём, не собственник). а так ничего нет.
+доход: детские пособия = 45т. семейное положение:3 ребёнка (несовершеннолетние). брак официальный (совместно нажитого имущества нет). брачный договор заключили с мужем
+сделки за 3 года: нет
+другие организации: ооо выход, ооо освободим, но с ними не общалась, т.к. надо в Рязань ехать.
+спросила про сумму в среднем, сказала от и до: от 120т и до 200т. Лояльная, закрыть можно (стиль общения - быстро, кратко и по факту отвечает)
+[/p]
+    [ADDITIONAL_INFO] => 
+    [LOCATION_ID] => 
+    [CATEGORY_ID] => 0
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [IS_RECURRING] => N
+    [IS_RETURN_CUSTOMER] => N
+    [IS_REPEATED_APPROACH] => N
+    [SOURCE_ID] => UC_WBH5YJ
+    [SOURCE_DESCRIPTION] => 
+    [ORIGINATOR_ID] => 
+    [ORIGIN_ID] => 
+    [MOVED_BY_ID] => 24
+    [MOVED_TIME] => 2025-02-19T12:09:07+03:00
+    [LAST_ACTIVITY_TIME] => 2025-02-19T12:08:10+03:00
+    [UTM_SOURCE] => 
+    [UTM_MEDIUM] => 
+    [UTM_CAMPAIGN] => 
+    [UTM_CONTENT] => 
+    [UTM_TERM] => 
+    [LAST_ACTIVITY_BY] => 24
+    [UF_CRM_1737357676436] => 
+    [UF_CRM_1737357696112] => 
+    [UF_CRM_1737357711196] => 
+    [UF_CRM_1737357723004] => 
+    [UF_CRM_1737357737540] => 
+    [UF_CRM_1737357752512] => 
+    [UF_CRM_1737358209973] => 
+    [UF_CRM_1737358296376] => 
+    [UF_CRM_1737358384607] => 
+    [UF_CRM_1737358501640] => 
+    [UF_CRM_1739456028409] => 
+    [UF_CRM_1739456948938] => 2025-02-20T11:00:00+03:00
+)
+1048
+------------------------
+
+------------------------
+2025.02.19 14:27:31
+lead
+Array
+(
+    [ID] => 1054
+    [TITLE] => Форышев Дмитрий Витальевич
+    [TYPE_ID] => SALE
+    [STAGE_ID] => FINAL_INVOICE
+    [PROBABILITY] => 
+    [CURRENCY_ID] => RUB
+    [OPPORTUNITY] => 0.00
+    [IS_MANUAL_OPPORTUNITY] => N
+    [TAX_VALUE] => 
+    [LEAD_ID] => 752
+    [COMPANY_ID] => 0
+    [CONTACT_ID] => 1050
+    [QUOTE_ID] => 
+    [BEGINDATE] => 2025-02-19T03:00:00+03:00
+    [CLOSEDATE] => 2025-02-26T03:00:00+03:00
+    [ASSIGNED_BY_ID] => 14
+    [CREATED_BY_ID] => 14
+    [MODIFY_BY_ID] => 14
+    [DATE_CREATE] => 2025-02-19T14:27:15+03:00
+    [DATE_MODIFY] => 2025-02-19T14:27:27+03:00
+    [OPENED] => N
+    [CLOSED] => N
+    [COMMENTS] => [p]
+Дмитрий Тарлыков
+Сумма долга: 1 миллиона (3 кредитки и потреб кредит)
+Просрочки: просрочки около года
+Боль: без работы, по состоянию здоровья, не может ходить нормально, трудности со здоровьем
+Ежемесячный платёж: 23 тысяч
+Имущество и брак: нет
+Залоговые кредиты: нет
+Сделки за последние 3 года: нет
+Работа (доход): нет
+0011
+[/p]
+    [ADDITIONAL_INFO] => 
+    [LOCATION_ID] => 
+    [CATEGORY_ID] => 0
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [IS_RECURRING] => N
+    [IS_RETURN_CUSTOMER] => N
+    [IS_REPEATED_APPROACH] => N
+    [SOURCE_ID] => UC_WBH5YJ
+    [SOURCE_DESCRIPTION] => 
+    [ORIGINATOR_ID] => 
+    [ORIGIN_ID] => 
+    [MOVED_BY_ID] => 14
+    [MOVED_TIME] => 2025-02-19T14:27:27+03:00
+    [LAST_ACTIVITY_TIME] => 2025-02-19T14:27:15+03:00
+    [UTM_SOURCE] => 
+    [UTM_MEDIUM] => 
+    [UTM_CAMPAIGN] => 
+    [UTM_CONTENT] => 
+    [UTM_TERM] => 
+    [LAST_ACTIVITY_BY] => 14
+    [UF_CRM_1737357676436] => 
+    [UF_CRM_1737357696112] => 
+    [UF_CRM_1737357711196] => 
+    [UF_CRM_1737357723004] => 
+    [UF_CRM_1737357737540] => 
+    [UF_CRM_1737357752512] => 
+    [UF_CRM_1737358209973] => 
+    [UF_CRM_1737358296376] => 
+    [UF_CRM_1737358384607] => 
+    [UF_CRM_1737358501640] => 
+    [UF_CRM_1739456028409] => 
+    [UF_CRM_1739456948938] => 2025-02-20T11:00:00+03:00
+)
+1054
+------------------------
